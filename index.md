@@ -4,9 +4,9 @@
     *   [Loops & Events](https://studio.code.org/s/pre-express-2022)
     *   Complete Parts 1-3
 2.  Badge Part 2 - Use Loops to improve your algorithm
-    *   Complete Part 6
+    *   Complete Part 6 (same link as part 1)
 3.  Badge Part 3 - Use events to make things happen
-    *   Complete Part 11
+    *   Complete Part 11 (same link as part 1)
 5.  Badge Part 4 - Learn about women in computer science
     *   [Grace Hopper -- Queen of Code](https://www.youtube.com/watch?v=5sNuPYJpSCI)
     *   [Ada Lovelace -- First Computer Programer](https://www.youtube.com/watch?v=2vg-0mlSnSE)
