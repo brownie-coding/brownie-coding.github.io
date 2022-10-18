@@ -1,5 +1,6 @@
 # Brownie Coding
-##Coding For Good
+
+## Coding For Good
 1.  Badge Part 1 - Create algorithms for a computer that follow a sequence
     *   [Loops & Events](https://studio.code.org/s/pre-express-2022)
     *   Complete Parts 1-3
