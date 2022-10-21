@@ -89,7 +89,7 @@ We would like this event to start as soon as we click the green flag.
 5. Add a Loop using a Control Block
   * We want the Movement Block to happen again and again while the game is going, so we are adding a loop.
   * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement block (blue) in the grove
-
+<img src="/Crystal_loop.png" width="400">
 
 ## Adding Code to Parrot
 Now the movement for the Sprite1 and Crystal are set, we'd like the bird to chase the Sprite1.
@@ -107,46 +107,51 @@ Now the movement for the Sprite1 and Crystal are set, we'd like the bird to chas
   * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
 
 ### Making the Parrot look like he's flying
-3. Add an Events Block 
+1. Add an Events Block 
   * Add the Events Block "when green flag clicked" to the design space.
-4. Add a Looks Block
+2. Add a Looks Block
   * Add a Looks Block "next costume"
-5. Add a Loop using a Control Block
+3. Add a Loop using a Control Block
   * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
-  * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
+  * Add a "forever" block (orange) under the Event Block (yellow) then put the Looks Block (purple) in the grove
   * If you try the code now, the costume will change too quickly
-5. Add a Contol Block
+4. Add a Contol Block
   * Add Controls Block "wait 1 sec" into the loop
+  * Adjust the number to control the speed.
+<img src="/Parrot_loops.png" width="400">
 
 ### Making the Sprite1 make a sound when it catches Crystal
-3. Add an Events Block (yellow)
+1. Add an Events Block (yellow)
   * Add the Events Block "when green flag clicked" to the design space.
-4. Add a Controls Block (orange)
+2. Add a Controls Block (orange)
   * Add an "If <> Then" Block
-5. Add a Sensing Block (Teal)
+3. Add a Sensing Block (Teal)
   * Add "touching ____ " Block into the "If Then" Block.
   * Select Crystal from the menu 
-6. Add a Sounds Block
+4. Add a Sounds Block
   * Add a "play sound Meow until done"
-8. Add a Loop using a Control Block
+5. Add a Loop using a Control Block
   * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop.
   * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove.
+<img src="/Noise_Sprite1_crystal.png" width="400">
+
 
 ### Making the Parrot make a sound when it catches Sprite1
-3. Add an Events Block (yellow)
+1. Add an Events Block (yellow)
   * Add the Events Block "when green flag clicked" to the design space.
-4. Add a Controls Block (orange)
+2. Add a Controls Block (orange)
   * Add an "If <> Then" Block
-5. Add a Sensing Block (Teal)
+3. Add a Sensing Block (Teal)
   * Add "touching ____ " Block into the "If Then" Block.
   * Select Sprite1 from the menu 
-6. Add a Sounds Block
+4. Add a Sounds Block
   * Use the sounds tab to add a new sound.
   * Add a "play sound Meow until done"
   * Change "Meow" to the new sound.
-8. Add a Loop using a Control Block
+5. Add a Loop using a Control Block
   * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop again.
   * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove
+<img src="/Noise_Parrot_Sprite1.png" width="400">
 
 ### Trouble Shooting
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
