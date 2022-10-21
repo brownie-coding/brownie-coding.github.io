@@ -17,12 +17,18 @@
 # Challenge Coding for Good with Scratch 
 ## Creating a Gem Chaser Game
 Use your coding skills to create a game with 3 elements a cat, parrot and crystal. 
+The player will try to move the cat around the screen to avoid the bird while trying to catch the crystal.
 
-The cat will be controlled by the arrow buttons and the player will try to move the cat around the screen to avoid the bird while trying to catch the crystal. The cat will meow when it catches the crystal.
-
-The bird will chase the cat, and make a noise when it catches the cat.
+Steps for this game:
+The cat will be controlled by the player using the arrow buttons and look like it's walking.
 
 The crystal will move randomly around the board.
+
+The bird will chase the cat, and look like it's flying. 
+
+The cat will meow when it catches the crystal.
+
+The bird will make a different noise when it catches the cat.
 
 ## Setup
 1.  Go to the scratch website - [Scratch](https://scratch.mit.edu)
