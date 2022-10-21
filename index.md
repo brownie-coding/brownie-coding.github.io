@@ -14,20 +14,44 @@
 3.  Badge Part 5 - Create your own set of commands that use events
     *   [Dance Party](https://studio.code.org/s/dance-2019/lessons/1/levels/1)
       
-## First Badge Coding Challenge with Scratch 
+# Challenge Coding for Good with Scratch 
 ## Creating a Gem Chaser Game
-1.  Go to the website - [Scratch](https://scratch.mit.edu)
-1.  [Login](https://www.youtube.com/watch?v=v2zEevGKPWs&t=270s)
-2.  [Click "Create"](https://www.youtube.com/watch?v=v2zEevGKPWs&t=260s)
-3.  [Name your program](https://www.youtube.com/watch?v=v2zEevGKPWs&t=265s)
-5.  [Pick a Backdrop and 3 Sprites (Sprite1, Crystal and Parrot)](https://www.youtube.com/watch?v=v2zEevGKPWs&t=276s)
-6.  [Adding Code to Sprite1](https://www.youtube.com/watch?v=v2zEevGKPWs&t=388s)
-    *   [Don't Forget to click on the Correct Sprite - start with Sprite1](https://www.youtube.com/watch?v=v2zEevGKPWs&t=387s)
-    *   [Adding Event Blocks to Sprite1](https://www.youtube.com/watch?v=v2zEevGKPWs&t=432s)
-       *   Start with the Event Block - "when ___ key pressed"
+Use your coding skills to create a game with 3 elements a cat, parrot and crystal. 
+
+The cat will be controlled by the arrow buttons and the player will try to move the cat around the screen to avoid the bird while trying to catch the crystal. The cat will meow when it catches the crystal.
+
+The bird will chase the cat, and make a noise when it catches the cat.
+
+The crystal will move randomly around the board.
+
+## Setup
+1.  Go to the scratch website - [Scratch](https://scratch.mit.edu)
+1.  If you would like to Login [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=270s), or you can just use the browser version you can save it to the computer without creating an account.
+2.  Then click "Create" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=260s)
+![Click Create](/CreateButton.png)
+4.  Name your program if you signed in. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=265s)
+5.  Pick a Backdrop [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=276s)
+   *Any backdrop will work, pick your favorite
+<img src="/ChooseABackground.png" width="300">
+
+
+6.  Pick the 3 Sprites 
+    Sprite1 (the cat is already picked for you), Crystal, and Parrot
+    <img src="/ChooseASprite.png" width="300">
+    
+     After clicking on Choose A Sprite you can start typing the name in the search box and the Parrot and Crystal will show up.
+     <img src="/Crystal.png" width="300"> <img src="/Parrot.png" width="300">
+
+##  Adding Code to Sprite1 [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=388s)
+ 1. Adding Event Blocks (Yellow) to Sprite1 [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=432s)
+       *  Click on the Correct Sprite - start with Sprite1 (the cat) [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=387s)
+       *  Add the Event Block - "when ___ key pressed"
        *   One event for each arrow key up, right, left and down
-    *   [Adding Motion Blocks](https://www.youtube.com/watch?v=v2zEevGKPWs&t=540s)
-       *   Change the direction of the sprite to point in the direction of the movement finding the ["point in direction __ "](https://www.youtube.com/watch?v=v2zEevGKPWs&t=592s) under movement 
+       *    <img src="/Sprite1_eventblocks.png" width="300">
+  2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=540s)
+    <img src="/Sprite1_steps%20and%20direction.png" width="400">
+     A.   Change the direction of the sprite to point in the direction of the movement 
+     by adding the Motion Block "point in direction __ "[Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=592s) 
        *   Add the movement block to each event - 4 total, (adjust the direction to face direction for the keyblock 10:15)
        *   Move Steps block (10:36) (keep number of steps at 10)
        *   Check that the 4 events (yellow blocks) have 2 motion blocks (blue) under each them 
@@ -38,6 +62,9 @@
 
 Reference points in video
 Defined Script - (11:48)
+## Adding Code to Parrot
+
+## Adding Code to Crystal
 
 ## References:
 *   https://code.org/dance
