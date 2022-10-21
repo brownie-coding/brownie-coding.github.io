@@ -73,17 +73,85 @@ The crystal will move randomly around the board.
        * Add the Looks Block "next costume".
    * Do you want Sprite1 to move faster or slower?
        * Change the number in the "Move __ Steps" block.  
-   * Do you want Sprite1 to move faster or slower?
-       * Change the size in the setup area. 
+   * Do you want Sprite1 to be larger or smaller?
+       * Change the size in the setup area.
+       
 ## Adding Code to Crystal     
 Now that the Cat can walk around we'd like the crystal to move around the board.
 
-We would like this event to start as soon as we click the green flag. Drag the Events Block "when green flag clicked" to the design space.
+We would like this event to start as soon as we click the green flag. 
+1. Click on the Crystal Sprite
+2. Adjust the size of the Crystal
+3. Add an Event Block 
+  * Add the Events Block "when green flag clicked" to the design space.
+4. Add a Movement Block
+  * Add the Movement Block "glide one secs to random position"
+5. Add a Loop using a Control Block
+  * We want the Movement Block to happen again and again while the game is going, so we are adding a loop.
+  * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement block (blue) in the grove
 
 
 ## Adding Code to Parrot
+Now the movement for the Sprite1 and Crystal are set, we'd like the bird to chase the Sprite1.
+1. Click on the Parrot Sprite
+2. Adjust the size of the Parrot
 
+4. Add a Movement Block to Change direction pointing
+  * Add the Movement Block "point towards _____"
+  * Select Sprite1 from block menu
+4. Add a Movement Block to take steps  
+  * Add the Movement Block "move __ steps"
+  * The number chosen should be smaller than the number of steps Sprite1 takes. This number can be adjusted to make the game easier or harder.
+5. Add a Loop using a Control Block
+  * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
+  * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
 
+### Making the Parrot look like he's flying
+3. Add an Events Block 
+  * Add the Events Block "when green flag clicked" to the design space.
+4. Add a Looks Block
+  * Add a Looks Block "next costume"
+5. Add a Loop using a Control Block
+  * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
+  * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
+  * If you try the code now, the costume will change too quickly
+5. Add a Contol Block
+  * Add Controls Block "wait 1 sec" into the loop
+
+### Making the Sprite1 make a sound when it catches Crystal
+3. Add an Events Block (yellow)
+  * Add the Events Block "when green flag clicked" to the design space.
+4. Add a Controls Block (orange)
+  * Add an "If <> Then" Block
+5. Add a Sensing Block (Teal)
+  * Add "touching ____ " Block into the "If Then" Block.
+  * Select Crystal from the menu 
+6. Add a Sounds Block
+  * Add a "play sound Meow until done"
+8. Add a Loop using a Control Block
+  * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop.
+  * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove.
+
+### Making the Parrot make a sound when it catches Sprite1
+3. Add an Events Block (yellow)
+  * Add the Events Block "when green flag clicked" to the design space.
+4. Add a Controls Block (orange)
+  * Add an "If <> Then" Block
+5. Add a Sensing Block (Teal)
+  * Add "touching ____ " Block into the "If Then" Block.
+  * Select Sprite1 from the menu 
+6. Add a Sounds Block
+  * Use the sounds tab to add a new sound.
+  * Add a "play sound Meow until done"
+  * Change "Meow" to the new sound.
+8. Add a Loop using a Control Block
+  * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop again.
+  * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove
+
+### Trouble Shooting
+Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
+
+Let others play your game!
 
 ## References:
 *   https://code.org/dance
