@@ -56,10 +56,9 @@ The crystal will move randomly around the board.
   2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=540s)
     
     
-     A.   Change the direction of the sprite to point in the direction of the movement 
-     by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=592s) 
+     A.   Change the direction the sprite points by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=592s) 
        *   Add the movement block to each event - 4 total, 
-       *   Adjust the direction to face direction for the keyblock [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=615s)
+       *   Adjust the direction to face direction of movement [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=615s)
      
      B.    Take Steps by adding "Move __ Steps" block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=636s)
        *   Check that the 4 events (yellow blocks) have 2 motion blocks (blue) under each them 
@@ -68,14 +67,23 @@ The crystal will move randomly around the board.
        
 ### Test your code       
    * Do you noticing that Sprite1 moves off the end of the screen [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=827s)
-       * Fixing Sprite 1 by adding the Motion Block "If on Edge, bounce" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
+       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
+   * Do you want Sprite1 to look like it's walking or running?
+       * Add the Looks Block "next costume".
+   * Do you want Sprite1 to move faster or slower?
+       * Change the number in the "Move __ Steps" block.  
+   * Do you want Sprite1 to move faster or slower?
+       * Change the size in the setup area. 
+## Adding Code to Crystal     
+Now that the Cat can walk around we'd like the crystal to move around the board.
 
-Reference points in video
-Defined Script - (11:48)
+We would like this event to start as soon as we click the green flag. Drag the Events Block "when green flag clicked" to the design space.
+
+
 ## Adding Code to Parrot
 
-## Adding Code to Crystal
+
 
 ## References:
 *   https://code.org/dance
