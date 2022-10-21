@@ -26,21 +26,24 @@ The crystal will move randomly around the board.
 
 ## Setup
 1.  Go to the scratch website - [Scratch](https://scratch.mit.edu)
-1.  If you would like to Login [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=270s), or you can just use the browser version you can save it to the computer without creating an account.
+1.  If you would like to Login ask an adult to help you set up an account, or you can just use the browser version you can save it to the computer without creating an account. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=270s)
 2.  Then click "Create" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=260s)
 ![Click Create](/CreateButton.png)
 4.  Name your program if you signed in. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=265s)
 5.  Pick a Backdrop [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=276s)
-   *Any backdrop will work, pick your favorite
-<img src="/ChooseABackground.png" width="300">
-
+     * Any backdrop will work, pick your favorite
+     <img src="/ChooseABackground.png" width="300">
 
 6.  Pick the 3 Sprites 
-    Sprite1 (the cat is already picked for you), Crystal, and Parrot
-    <img src="/ChooseASprite.png" width="300">
+     
+     * Sprite1 (the cat is already picked for you)
+     * Add Crystal, and Parrot
+     <img src="/ChooseASprite.png" width="300">
     
-     After clicking on Choose A Sprite you can start typing the name in the search box and the Parrot and Crystal will show up.
-     <img src="/Crystal.png" width="300"> <img src="/Parrot.png" width="300">
+     After clicking on "Choose A Sprite" start typing in the search box to find both Parrot and Crystal.
+     <img src="/Crystal.png" width="300"> 
+     
+     <img src="/Parrot.png" width="300">
 
 ##  Adding Code to Sprite1 [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=388s)
  1. Adding Event Blocks (Yellow) to Sprite1 [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=432s)
