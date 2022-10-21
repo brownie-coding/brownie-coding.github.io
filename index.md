@@ -46,22 +46,30 @@ The crystal will move randomly around the board.
      <img src="/Parrot.png" width="300">
 
 ##  Adding Code to Sprite1 [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=388s)
- 1. Adding Event Blocks (Yellow) to Sprite1 [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=432s)
+ 1. Adding Event Blocks (Yellow) to Sprite1 [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=432s)
        *  Click on the Correct Sprite - start with Sprite1 (the cat) [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=387s)
        *  Add the Event Block - "when ___ key pressed"
-       *   One event for each arrow key up, right, left and down
+       *  Change the key so each Event responds to a different key
+       *    <img src="/SpriteEventBlocksPickkey.png" width="300">
+       *  One event for each arrow key up, right, left and down
        *    <img src="/Sprite1_eventblocks.png" width="300">
   2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=540s)
-    <img src="/Sprite1_steps%20and%20direction.png" width="400">
+    
+    
      A.   Change the direction of the sprite to point in the direction of the movement 
-     by adding the Motion Block "point in direction __ "[Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=592s) 
-       *   Add the movement block to each event - 4 total, (adjust the direction to face direction for the keyblock 10:15)
-       *   Move Steps block (10:36) (keep number of steps at 10)
+     by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=592s) 
+       *   Add the movement block to each event - 4 total, 
+       *   Adjust the direction to face direction for the keyblock [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=615s)
+     
+     B.    Take Steps by adding "Move __ Steps" block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=636s)
        *   Check that the 4 events (yellow blocks) have 2 motion blocks (blue) under each them 
-       *   That the arrow key matches the direction (11:00)
-       * Noticing that Sprite1 moves off the end of the screen (13:47)
-       * Fixing Sprite 1 by adding a If on Edge, bounce (14:08)
-       * 
+       *   <img src="/Sprite1_steps%20and%20direction.png" width="400">
+       *   That the arrow key matches the direction of the steps [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=660s)
+       
+### Test your code       
+   * Do you noticing that Sprite1 moves off the end of the screen [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=827s)
+       * Fixing Sprite 1 by adding the Motion Block "If on Edge, bounce" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
+       <img src="/Sprite1_bounce%20on%20edge.png" width="400">
 
 Reference points in video
 Defined Script - (11:48)
