@@ -134,6 +134,7 @@ We would like this event to start as soon as we click the green flag.
 6. Add a Loop using a Control Block
    * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
    * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
+<img src="/Parrot_move.png" width="400">
 </details>
 <details><summary>6. Make the Parrot look like it's flying </summary>    
    
@@ -168,7 +169,7 @@ We would like this event to start as soon as we click the green flag.
    * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove.
 <img src="/Noise_Sprite1_crystal.png" width="400">
 </details>
-<details><summary>8. Add Noise to Parrot </summary> 
+<details><summary>8. Add sound to Parrot </summary> 
    
    ### Making the Parrot make a sound when it catches Sprite1
 1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2260s)
