@@ -1,6 +1,4 @@
 	
-<a href="http://scratch.mit.edu" target="_blank" rel="noopener">Link</a>
-
 
 # Brownie Coding
 
