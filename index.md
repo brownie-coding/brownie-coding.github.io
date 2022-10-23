@@ -17,7 +17,7 @@ Using Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabu
 3.  Badge Part 5 - Create your own set of commands that use events
     *   [Dance Party](https://studio.code.org/s/dance-2019/lessons/1/levels/1)
 
-<details><summary>Challenge:Coding for good with Scratch</summary>
+<details><summary>Challenge Coding with Scratch</summary>
 
    # Challenge: Coding for Good with Scratch    
    Using the Brownies - Coding for Good Badge 1 [Grades: 2-3] video from STEM for Scouts YouTube Channel
@@ -94,8 +94,11 @@ Using Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabu
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
    * Do you want Sprite1 to look like it's walking or running? [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
        * Add the Looks Block "next costume". [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1040s)
+       <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to move faster or slower? 
        * Change the number in the "Move __ Steps" block.  [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1100s)
+       * Increase to move faster, recommend changing to 20.
+       <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to be larger or smaller, Crystal to be smaller of large?
        * Change the size in the setup area. [Video Sprite](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1135s) [Video Crystal](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1180s)
 </details>
