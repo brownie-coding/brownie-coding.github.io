@@ -43,7 +43,8 @@ Using Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabu
    
    ## Setup
 
-   1.  Open the scratch website in a new tab - [Scratch](https://scratch.mit.edu)
+   1.  Open the scratch website in a new tab - <a href="https://scratch.mit.edu" target="_blank">Opens in new tab</a>
+   [Scratch](https://scratch.mit.edu)
 
    1.  If you would like to Login ask an adult to help you set up an account, or you can just use the browser version you can save it to the computer without creating an account. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=270s)
 
