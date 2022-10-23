@@ -1,6 +1,7 @@
 # Brownie Coding
 
 ## Coding For Good
+Using Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabus [pdf](https://www.gssef.org/content/dam/girlscouts-gssef/girl-experience/girl-scouts-at-home/flyers/Brownies%20-%20Coding%20Basics.pdf)
 1.  Badge Part 1 - Create algorithms for a computer that follow a sequence
     *   [Loops & Events](https://studio.code.org/s/pre-express-2022)
     *   Complete Parts 1-3
@@ -15,7 +16,9 @@
 3.  Badge Part 5 - Create your own set of commands that use events
     *   [Dance Party](https://studio.code.org/s/dance-2019/lessons/1/levels/1)
       
-# Challenge Coding for Good with Scratch 
+# Challenge: Coding for Good with Scratch 
+Using the Brownies - Coding for Good Badge 1 [Grades: 2-3] video from STEM for Scouts YouTube Channel
+
 ## Creating a Gem Chaser Game
 Use your coding skills to create a game with 3 elements a cat, parrot and crystal. 
 The player will try to move the cat around the screen to avoid the bird while trying to catch the crystal.
