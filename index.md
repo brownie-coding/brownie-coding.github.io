@@ -1,3 +1,7 @@
+<details>
+   <summary>Click me</summary>
+</details>
+
 # Brownie Coding
 
 ## Coding For Good
@@ -15,7 +19,10 @@ Using Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabu
     *   [Ada Lovelace -- First Computer Programer](https://www.youtube.com/watch?v=2vg-0mlSnSE)
 3.  Badge Part 5 - Create your own set of commands that use events
     *   [Dance Party](https://studio.code.org/s/dance-2019/lessons/1/levels/1)
-      
+
+<details>
+   <summary>Challenge:Coding for good with Scratch</summary>
+ 
 # Challenge: Coding for Good with Scratch 
 Using the Brownies - Coding for Good Badge 1 [Grades: 2-3] video from STEM for Scouts YouTube Channel
 
@@ -169,6 +176,6 @@ Now the movement for the Sprite1 and Crystal are set, we'd like the bird to chas
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
 
 Let others play your game!
-
+<details>
 ## References:
 *   https://code.org/dance
