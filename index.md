@@ -191,6 +191,8 @@ We would like this event to start as soon as we click the green flag.
 ### Trouble Shooting
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
 
+Don't forget to save your game!
+   
 Let others play your game!
 </details>
 
