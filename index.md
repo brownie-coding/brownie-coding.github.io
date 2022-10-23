@@ -1,7 +1,7 @@
 
 # Brownie Coding
 
-## Coding For Good
+## Coding For Good (Badge 1)
 <details><summary>Basics</summary>
    
 Using Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabus [pdf](https://www.gssef.org/content/dam/girlscouts-gssef/girl-experience/girl-scouts-at-home/flyers/Brownies%20-%20Coding%20Basics.pdf)
