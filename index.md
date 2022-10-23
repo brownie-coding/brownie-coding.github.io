@@ -192,6 +192,9 @@ We would like this event to start as soon as we click the green flag.
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
 
 Let others play your game!
-<details>
+</details>
+
 ## References:
 *   https://code.org/dance
+*   Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabus [pdf](https://www.gssef.org/content/dam/girlscouts-gssef/girl-experience/girl-scouts-at-home/flyers/Brownies%20-%20Coding%20Basics.pdf)
+*   Coding for Good Badge 1 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1s)
