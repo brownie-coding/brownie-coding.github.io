@@ -208,21 +208,21 @@ Let others play your game!
 	
 ## Digital Game Design
 <details><summary>Planning and Design</summary>
-   Using the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
+	
+Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
    
-   
-   Create a game using a background and sprite. 
+   Create a maze game using a background and sprite. 
 
-   The player will try to move the Sprite (Cat) through the maze to the end point.
+   The player will try to navigate the maze using the Sprite (Cat) to the end point.
 
-
+	
    Steps for this game:
 	
    Develop a maze background
 	
    The cat will be controlled by the player using which buttons (example is arrow buttons).
 	
-   The cat will bounce off walls when the cat runs into the walls.
+   The cat will bounce off walls when the cat runs into the maze.
 	
    The cat will meow, and change background, and size when reaches the end of the maze.
 	
@@ -251,7 +251,7 @@ Let others play your game!
    5.  Pick a Sprite 
      * Sprite1 (the cat is already picked for you - but you can pick a different one)
 	
-   6.  Draw your Backdrop [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=276s)
+   6.  Draw your Backdrop [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
 	This will be your maze. You can start simple then make it more complex after you get the rest of your program working.
 
 
