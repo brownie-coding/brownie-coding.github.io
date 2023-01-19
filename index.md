@@ -208,7 +208,7 @@ Let others play your game!
 	
 ## Digital Game Design
 <details><summary>Planning and Design</summary>
-   Using the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video]([https://www.youtube.com/watch?v=JpbUGa6yE9U]&t=1s)
+   Using the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
    
    
    Create a game using a background and sprite. 
