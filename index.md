@@ -208,13 +208,10 @@ Let others play your game!
 	
 ## Digital Game Design
 <details><summary>Planning and Design</summary>
-	
-Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
    
    Create a maze game using a background and sprite. 
 
    The player will try to navigate the maze using the Sprite (Cat) to the end point.
-
 	
    Steps for this game:
 	
@@ -222,18 +219,18 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
 	
    The cat will be controlled by the player using which buttons (example is arrow buttons).
 	
-   The cat will bounce off walls when the cat runs into the maze.
+   The cat will should bounce off walls when the cat runs into the maze.
 	
    The cat will meow, and change background, and size when reaches the end of the maze.
 	
    The cat and background will reset when the game is restarted.
 	
+Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
 	
 </details>
 <details><summary>Game Design (Coding with Scratch)</summary>
 
    # Digital Game Design with Scratch    
-   
  
 <details><summary>1. Setup</summary>
    
@@ -254,7 +251,6 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
    6.  Draw your Backdrop [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
 	This will be your maze. You can start simple then make it more complex after you get the rest of your program working.
 
-
 </details>
 <details><summary>2. Draw your Maze</summary> 
    1. Draw out a simple maze on paper with a circle for start and a different circle for end point
@@ -262,13 +258,13 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
    2. Click on "Stage" 
    
    3. Click "Backdrop" tab - this will allow you to draw on your backdrop.
-   
+   <img src="/BackdropDesign.png" width="400">
    4. Pick a color for your maze walls, the example is purple, but you can use any color. It is important to make all of the maze walls in the same color. Pick the red diagonal line in the outline box - this will make the rectangles used for the walls one color and easier to program.
-   
-   5. Make sure to have a large enough maze path so your sprite can move through it. You can make your Sprite smaller!
+   <img src="/ColorSetup.png" width="400">
+   5. Make sure to have a large enough maze path so your sprite can move through it. You can make your Sprite smaller (see step 5)!
   
    6. Add shape in different colors for the start and end. The example uses a green circle for the start, and a red circle for the end. 
-	
+   <img src="/MazeExample.png" width="400">
 </details>
 <details><summary>3. Code Sprite1</summary>   
    
