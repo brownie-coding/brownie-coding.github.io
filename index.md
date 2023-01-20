@@ -206,31 +206,31 @@ Let others play your game!
 </details>
 <details><summary>Badge 2</summary>
 	
-## Digital Game Design
+# Digital Game Design
 <details><summary>Planning and Design</summary>
    
-   Create a maze game using a background and sprite. 
+   Program a maze game. 
 
    The player will try to navigate the maze using the Sprite (Cat) to the end point.
 	
-   Steps for this game:
+   Steps to create this game:
 	
-   Develop a maze background
+   Develop a maze background (Part 2)
 	
-   The cat will be controlled by the player using which buttons (example is arrow buttons).
+   The cat will be controlled by the player using which buttons (example is arrow buttons) (Part 3).
 	
-   The cat will should bounce off walls when the cat runs into the maze.
+   The cat will should bounce off boundaries and maze walls (Part 3).
 	
-   The cat will meow, and change background, and size when reaches the end of the maze.
+   The cat will meow, and change background, and size when reaches the end of the maze (Part 5).
 	
-   The cat and background will reset when the game is restarted.
+   The cat and background will reset when the game is restarted (Part 6).
 	
 Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
 	
 </details>
 <details><summary>Game Design (Coding with Scratch)</summary>
 
-   # Digital Game Design with Scratch    
+   ## Digital Game Design with Scratch    
  
 <details><summary>1. Setup</summary>
    
@@ -259,12 +259,15 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
    
    3. Click "Backdrop" tab - this will allow you to draw on your backdrop.
    <img src="/BackdropDesign.png" width="400">
+   
    4. Pick a color for your maze walls, the example is purple, but you can use any color. It is important to make all of the maze walls in the same color. Pick the red diagonal line in the outline box - this will make the rectangles used for the walls one color and easier to program.
-   <img src="/ColorSetup.png" width="400">
+  <img src="/ColorSetup.png" width="400">
+   
    5. Make sure to have a large enough maze path so your sprite can move through it. You can make your Sprite smaller (see step 5)!
   
    6. Add shape in different colors for the start and end. The example uses a green circle for the start, and a red circle for the end. 
    <img src="/MazeExample.png" width="400">
+
 </details>
 <details><summary>3. Code Sprite1</summary>   
    
@@ -304,45 +307,70 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to be larger or smaller, to be smaller or larger?
        * Change the size in the setup area. [Video Sprite](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1135s) [Video Crystal](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1180s)
+	
+</details>  
+	
+<details><summary>5. Reset the Game when the flag is pressed </summary> 
+   ### Sprite1 starts on the green circle at the right size
+In the first Control block "when green flag clicked"
+1. Reset the Sprite's size to fit into your maze.
+   *Add a Block (purple)
+   *Add "set size to ___ %" (example is 25%)
+2. Set the Sprite's location to the green circle
+   *Move the Sprite using your mouse to the starting location - this should change the x and y position numbers.
+   *Use a Motion Block (blue)
+   *Add a "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)
+3. Reset the background
+   *Use a Block (purple) 
+   *Add the "switch backdrop to ____" block under the yellow Control block "when green flag clicked"
+   *Set block to "backdrop1"	
+<img src="/MazeSetup.png" width="400">
 </details>
-
-
-<details><summary>7. Add a sound to Sprite1 </summary>    
-   
-   ### Making the Sprite1 make a sound when it catches Crystal
-1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1998s)
-   * Add the Events Block "when green flag clicked" to the design space.
-2. Add a Controls Block (orange)
-   * Add an "If <> Then" Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2029s)
-3. Add a Sensing Block (Teal)
-   * Add "touching ____ " Block into the "If Then" Block. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2060s)
-   * Select Crystal from the menu 
-4. Add a Sounds Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2118s)
-   * Add a "play sound Meow until done"
-5. Add a Loop using a Control Block
-   * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2155s)
-   * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove.
-<img src="/Noise_Sprite1_crystal.png" width="400">
-</details>
-<details><summary>8. Add sound to Parrot </summary> 
-   
-   ### Making the Parrot make a sound when it catches Sprite1
+	
+<details><summary>6. Bounce off the Maze too! </summary>   
 1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2260s)
      * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Controls Block (orange)
      * Add an "If <> Then" Block
 3. Add a Sensing Block (Teal)
-     * Add "touching ____ " Block into the "If Then" Block.
-     * Select Sprite1 from the menu 
-4. Add a Sounds Block
-     * Use the sounds tab to add a new sound. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2117s) 
-     * Add a "play sound Meow until done"
-     * Change "Meow" to the new sound.
+     * Add "touching color ____ " Block into the "If Then" Block.
+     * Use the selector button and pick the maze color (purple)
+4. Add a Motion Block (blue) 
+     * Add a "move __ steps" block
+     * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key
 5. Add a Loop using a Control Block
-     * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop again.
-     * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove
-   <img src="/Noise_Parrot_Sprite1.png" width="400">
+     * We want the Sprite to bounce off the maze again and again while the game is going, so we are adding a forever loop.
+     * Add a "forever" block (orange) under the Event Block (yellow) then put the if statement in the grove
+   <img src="/MazeStart.png" width="400">
 </details>
+
+	
+
+<details><summary>7. Add a suprise background </summary>    
+   
+   ### Making the Sprite1 make a sound and enter a new background when gets to the end of the maze
+1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1998s)
+   * Add the Events Block "when green flag clicked" to the design space.
+2. Add a Controls Block (orange)
+   * Add an "If <> Then" Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2029s)
+3. Add a Sensing Block (Teal)
+   * Add "touching color ____ ?" Block into the "If Then" Block. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2060s)
+   * Use the sampling tool to pick the color of the end shape (red) 
+4. Add a Block (purple)
+   * switch backdrop to your favorite one (Example is Space City 2)	
+5. Add a Sounds Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2118s)
+   * Add a "play sound (Meow) until done"
+6. Add a Block (purlple)
+   * Add "set size to ___%"
+   * Pick a new size (example uses 150)
+5. Add a Loop using a Control Block
+   * We this to be tested over again while the game is running, so we are adding a forever loop. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2155s)
+   * Add a "forever" block (orange) under the Event Block (yellow) then put the If block and all other blocks (purple) in the grove.
+<img src="/MazeEnd.png" width="400">
+</details>
+
+   
+
    
 ### Trouble Shooting
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
