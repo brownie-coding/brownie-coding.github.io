@@ -311,40 +311,40 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
 </details>  
 	
 <details><summary>5. Reset the Game when the flag is pressed </summary> 
+   
    ### Sprite1 starts on the green circle at the right size
-In the first Control block "when green flag clicked"
-1. Reset the Sprite's size to fit into your maze.
-   *Add a Block (purple)
-   *Add "set size to ___ %" (example is 25%)
-2. Set the Sprite's location to the green circle
-   *Move the Sprite using your mouse to the starting location - this should change the x and y position numbers.
-   *Use a Motion Block (blue)
-   *Add a "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)
-3. Reset the background
-   *Use a Block (purple) 
-   *Add the "switch backdrop to ____" block under the yellow Control block "when green flag clicked"
-   *Set block to "backdrop1"	
-<img src="/MazeSetup.png" width="400">
+1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2260s)
+   * Add the Events Block "when green flag clicked" to the design space. 
+2. Reset the Sprite's size to fit into your maze.   
+    * Use a Looks Block (purple)
+    * Add "set size to ___ %" under ther yellow Control block "when green flag clicked" (example is 25%)
+3. Set the Sprite's location to the green circle
+    * Move the Sprite using your mouse to the starting location - this should change the x and y position numbers. 
+    * Use a Motion Block (blue)
+    * Add the "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)
+4. Reset the background
+    * Use a Looks Block (purple)  
+    * Add the "switch backdrop to ____" block under the yellow Control block "when green flag clicked"  
+    * Set block to "backdrop1"	
+   <img src="/MazeSetup.png" width="400">
 </details>
 	
 <details><summary>6. Bounce off the Maze too! </summary>   
-1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2260s)
-     * Add the Events Block "when green flag clicked" to the design space.
+
+
 2. Add a Controls Block (orange)
-     * Add an "If <> Then" Block
+   * Add an "If <> Then" Block
 3. Add a Sensing Block (Teal)
-     * Add "touching color ____ " Block into the "If Then" Block.
-     * Use the selector button and pick the maze color (purple)
-4. Add a Motion Block (blue) 
-     * Add a "move __ steps" block
-     * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key
+   * Add "touching color ____ " Block into the "If Then" Block.
+   * Use the selector button and pick the maze color (purple)
+4. Add a Motion Block (blue)
+   * Add a "move __ steps" block
+   * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key
 5. Add a Loop using a Control Block
-     * We want the Sprite to bounce off the maze again and again while the game is going, so we are adding a forever loop.
-     * Add a "forever" block (orange) under the Event Block (yellow) then put the if statement in the grove
+   * We want the Sprite to bounce off the maze again and again while the game is going, so we are adding a forever loop.
+   * Add a "forever" block (orange) under the Event Block (yellow) then put the if statement in the grove
    <img src="/MazeStart.png" width="400">
 </details>
-
-	
 
 <details><summary>7. Add a suprise background </summary>    
    
@@ -356,11 +356,11 @@ In the first Control block "when green flag clicked"
 3. Add a Sensing Block (Teal)
    * Add "touching color ____ ?" Block into the "If Then" Block. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2060s)
    * Use the sampling tool to pick the color of the end shape (red) 
-4. Add a Block (purple)
+4. Add a Looks Block (purple)
    * switch backdrop to your favorite one (Example is Space City 2)	
 5. Add a Sounds Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2118s)
    * Add a "play sound (Meow) until done"
-6. Add a Block (purlple)
+6. Add a Looks Block (purlple)
    * Add "set size to ___%"
    * Pick a new size (example uses 150)
 5. Add a Loop using a Control Block
