@@ -69,6 +69,10 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
   
    6. Add shape in different colors for the start and end. The example uses a green circle for the start, and a red circle for the end.  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=654s)
    <img src="/MazeExample.png" width="400">
+   7. Select a second backdrop for a Final Screen
+	* Click the choose a backdrop icon in bottom left corner
+	* Pick your favorite
+	<img src="/add_backdrop.png" width="400">
 
 </details>
 <details><summary>3. Code Sprite1</summary>   
