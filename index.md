@@ -211,14 +211,14 @@ Let others play your game!
    
    Program a maze game. 
 
-   The player will try to navigate the maze using the Sprite (Cat) to the end point. [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=122s)
+   The player will try to navigate the maze using the Sprite (Cat) to the end point. [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=122s)
 	
    Steps to create this game:
    1. Open Scratch
 	
    2. Develop a maze background
 	
-   3. Deside how the Sprite will be controlled by the player (example is arrow buttons)  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=335s)
+   3. Deside how the Sprite will be controlled by the player (example is arrow buttons)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=335s)
 	
    4. The cat will should bounce off boundaries and maze walls.
 	
