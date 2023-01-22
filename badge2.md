@@ -142,7 +142,7 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
    <img src="/dropper_tool.png" width="200">
 4. Add a Motion Block (blue)
    * Add a "move __ steps" block
-   * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2110s)
+   * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2105s)
 5. Add a Loop using a Control Block
    * We want the Sprite to bounce off the maze again and again while the game is going, so we are adding a forever loop.
    * Add a "forever" block (orange) under the Event Block (yellow) then put the if statement in the grove [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2176s)
@@ -152,22 +152,22 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 <details><summary>7. Add a suprise background </summary>    
    
    ### Making the Sprite1 make a sound and enter a new background when gets to the end of the maze
-1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1805s)
+1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2280s)
    * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Controls Block (orange)
-   * Add an "If <> Then" Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2029s)
+   * Add an "If <> Then" Block [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2332s)
 3. Add a Sensing Block (Teal)
-   * Add "touching color ____ ?" Block into the "If Then" Block. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2060s)
-   * Use the sampling tool to pick the color of the end shape (red) 
+   * Add "touching color ____ ?" Block into the "If Then" Block. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2422s)
+   * Use the sampling tool to pick the color of the end shape (red) [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2422s)
 4. Add a Looks Block (purple)
    * switch backdrop to your favorite one (Example is Space City 2)	
-5. Add a Sounds Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2118s)
+5. Add a Sounds Block [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2280s)
    * Add a "play sound (Meow) until done"
 6. Add a Looks Block (purlple)
    * Add "set size to ___%"
    * Pick a new size (example uses 150)
 5. Add a Loop using a Control Block
-   * We this to be tested over again while the game is running, so we are adding a forever loop. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2155s)
+   * We this to be tested over again while the game is running, so we are adding a forever loop. [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2422s)
    * Add a "forever" block (orange) under the Event Block (yellow) then put the If block and all other blocks (purple) in the grove.
 <img src="/MazeEnd.png" width="400">
 </details>
