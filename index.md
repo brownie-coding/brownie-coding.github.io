@@ -101,7 +101,7 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 <details><summary>4. Test your code </summary>   
 
    ### Test your code       
-   * Do you noticing that Sprite1 moves off the end of the screen [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=827s)
+   * Do you noticing that Sprite1 moves off the end of the screen 
        * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce"  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1400s)
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
    * Do you want Sprite1 to look like it's walking or running? [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
