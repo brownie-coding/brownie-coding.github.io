@@ -2,8 +2,8 @@
 	
 # Badge 2 - Digital Game Design
 <details><summary>Planning Summary and Game Design</summary>
-   
-   Program a maze game. 
+  
+   ## Design and program your own maze game. 
 
    The player will try to navigate the maze using the Sprite (Cat) to the end point. [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=122s)
 	
@@ -44,7 +44,7 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
      * Sprite1 (the cat is already picked for you - but you can pick a different one)
      <img src="/sprite_pick.png" width="400">
 	
-   6.  Draw your Backdrop  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
+   6.  Draw your Backdrop on paper  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
 	This will be your maze. You can start simple then make it more complex after you get the rest of your program working.
 
 </details>
@@ -98,7 +98,8 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 </details>  
 <details><summary>4. Test your code </summary>   
 
-   ### Test your code       
+   ### Test your code  
+   * Does your Sprite move the directions you want when you hit the buttons your programmed?	
    * Do you noticing that Sprite1 moves off the end of the screen 
        * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce"  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1400s)
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
@@ -125,11 +126,12 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
     * Move the Sprite using your mouse to the starting location - this should change the x and y position numbers. DO THIS BEFORE ADDING THE MOTION BLOCK or you will need to change the numbers manually!
     * Use a Motion Block (blue)
     * Add the "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1640s)
+    <img src="/MazeSetup.png" width="400">
 4. Reset the background
     * Use a Looks Block (purple)  
     * Add the "switch backdrop to ____" block under the yellow Control block "when green flag clicked"  
     * Set block to "backdrop1"	[Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2332s)
-   <img src="/MazeSetup.png" width="400">
+   <img src="/MazeSetup2.png" width="400">
 </details>
 	
 <details><summary>6. Bounce off the Maze! </summary>   
