@@ -72,8 +72,8 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
    <img src="/MazeExample.png" width="400">
    
    7. Select a second backdrop for a Final Screen
-	* Click the choose a backdrop icon in bottom left corner
-	* Pick your favorite backdrop
+        * Click the choose a backdrop icon in bottom left corner
+        * Pick your favorite backdrop
    <img src="/add_backdrop.png" width="400">
 
 </details>
