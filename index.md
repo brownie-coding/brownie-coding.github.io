@@ -249,24 +249,24 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
    5.  Pick a Sprite 
      * Sprite1 (the cat is already picked for you - but you can pick a different one)
 	
-   6.  Draw your Backdrop [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=318s) or  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
+   6.  Draw your Backdrop [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=318s) or  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
 	This will be your maze. You can start simple then make it more complex after you get the rest of your program working.
 
 </details>
 <details><summary>2. Draw your Maze</summary> 
-   1. Draw out a simple maze on paper with a circle for start and a different circle for end point [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
+   1. Draw out a simple maze on paper with a circle for start and a different circle for end point [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
    
-   2. Click on "Stage"  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=442s)
+   2. Click on "Stage"  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=442s)
    
-   3. Click "Backdrop" tab - this will allow you to draw on your backdrop.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=473s)
+   3. Click "Backdrop" tab - this will allow you to draw on your backdrop.  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=473s)
    <img src="/BackdropDesign.png" width="400">
    
-   4. Pick a color for your maze walls, the example is purple, but you can use any color. It is important to make all of the maze walls in the same color. Pick the red diagonal line in the outline box - this will make the rectangles used for the walls one color and easier to program.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=485s)
+   4. Pick a color for your maze walls, the example is purple, but you can use any color. It is important to make all of the maze walls in the same color. Pick the red diagonal line in the outline box - this will make the rectangles used for the walls one color and easier to program.  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=485s)
   <img src="/ColorSetup.png" width="400">
    
    5. Make sure to have a large enough maze path so your sprite can move through it. You can make your Sprite smaller (see step 5)!
   
-   6. Add shape in different colors for the start and end. The example uses a green circle for the start, and a red circle for the end.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=654s)
+   6. Add shape in different colors for the start and end. The example uses a green circle for the start, and a red circle for the end.  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=654s)
    <img src="/MazeExample.png" width="400">
 
 </details>
@@ -296,7 +296,7 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 
    ### Test your code       
    * Do you noticing that Sprite1 moves off the end of the screen [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=827s)
-       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce"  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1400s)
+       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce"  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1400s)
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
    * Do you want Sprite1 to look like it's walking or running? [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
        * Add the Looks Block "next costume". [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1040s)
@@ -306,21 +306,21 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
        * Increase to move faster?, recommend changing to 20.
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to be larger or smaller, to be smaller or larger?
-       * Change the size in the setup area.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1490s)
+       * Change the size in the setup area.  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1490s)
 </details>  
 	
 <details><summary>5. Start the Game when the flag is pressed </summary> 
    
    ### Sprite1 starts at the Start (green circle)
-1. Add an Events Block (yellow)  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1450s)
+1. Add an Events Block (yellow)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1450s)
    * Add the Events Block "when green flag clicked" to the design space. 
 2. Set the Sprite's size to fit into your maze.   
     * Use a Looks Block (purple)
-    * Add "set size to ___ %" under the yellow Control block "when green flag clicked" (example is 25%) [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1490s)
-3. Set the Sprite's location to the green circle  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1560s)
+    * Add "set size to ___ %" under the yellow Control block "when green flag clicked" (example is 25%) [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1490s)
+3. Set the Sprite's location to the green circle  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1560s)
     * Move the Sprite using your mouse to the starting location - this should change the x and y position numbers. 
     * Use a Motion Block (blue)
-    * Add the "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1640s)
+    * Add the "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1640s)
 4. Reset the background
     * Use a Looks Block (purple)  
     * Add the "switch backdrop to ____" block under the yellow Control block "when green flag clicked"  
