@@ -3,7 +3,7 @@
 # Brownie Coding
 <details><summary>Badge 1</summary>
 	
-[Badge 1](../badge1.md)
+[Badge 1](/badge1.md)
 </details>
 <details><summary>Badge 2</summary>
 	
