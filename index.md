@@ -211,21 +211,22 @@ Let others play your game!
    
    Program a maze game. 
 
-   The player will try to navigate the maze using the Sprite (Cat) to the end point.
+   The player will try to navigate the maze using the Sprite (Cat) to the end point. [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=122s)
 	
    Steps to create this game:
+   1. Open Scratch
 	
-   Develop a maze background (Part 2)
+   2. Develop a maze background
 	
-   The cat will be controlled by the player using which buttons (example is arrow buttons) (Part 3).
+   3. Deside how the Sprite will be controlled by the player (example is arrow buttons)  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=335s)
 	
-   The cat will should bounce off boundaries and maze walls (Part 3).
+   4. The cat will should bounce off boundaries and maze walls.
 	
-   The cat will meow, and change background, and size when reaches the end of the maze (Part 5).
+   5. The cat will meow, and change background, and size when reaches the end of the maze.
 	
-   The cat and background will reset when the game is restarted (Part 6).
+   6. The cat and background will reset when the game is restarted.
 	
-Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
+Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
 	
 </details>
 <details><summary>Game Design (Coding with Scratch)</summary>
@@ -248,80 +249,78 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
    5.  Pick a Sprite 
      * Sprite1 (the cat is already picked for you - but you can pick a different one)
 	
-   6.  Draw your Backdrop [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
+   6.  Draw your Backdrop [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=318s) or  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
 	This will be your maze. You can start simple then make it more complex after you get the rest of your program working.
 
 </details>
 <details><summary>2. Draw your Maze</summary> 
-   1. Draw out a simple maze on paper with a circle for start and a different circle for end point
+   1. Draw out a simple maze on paper with a circle for start and a different circle for end point [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
    
-   2. Click on "Stage" 
+   2. Click on "Stage"  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=442s)
    
-   3. Click "Backdrop" tab - this will allow you to draw on your backdrop.
+   3. Click "Backdrop" tab - this will allow you to draw on your backdrop.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=473s)
    <img src="/BackdropDesign.png" width="400">
    
-   4. Pick a color for your maze walls, the example is purple, but you can use any color. It is important to make all of the maze walls in the same color. Pick the red diagonal line in the outline box - this will make the rectangles used for the walls one color and easier to program.
+   4. Pick a color for your maze walls, the example is purple, but you can use any color. It is important to make all of the maze walls in the same color. Pick the red diagonal line in the outline box - this will make the rectangles used for the walls one color and easier to program.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=485s)
   <img src="/ColorSetup.png" width="400">
    
    5. Make sure to have a large enough maze path so your sprite can move through it. You can make your Sprite smaller (see step 5)!
   
-   6. Add shape in different colors for the start and end. The example uses a green circle for the start, and a red circle for the end. 
+   6. Add shape in different colors for the start and end. The example uses a green circle for the start, and a red circle for the end.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=654s)
    <img src="/MazeExample.png" width="400">
 
 </details>
 <details><summary>3. Code Sprite1</summary>   
    
-   ##  Adding Code to Sprite1 [Video Help](https://www.youtube.com/watch?v=v2zEevGKPWs&t=388s)
+   ##  Adding Code to Sprite1 [Video Help](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=874s)
    
-   1. Adding Event Blocks (Yellow) to Sprite1 [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=432s)
-        *  Click on the Correct Sprite - start with Sprite1 (the cat) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=387s)
-        *  Add the Event Block - "when ___ key pressed"
+   1. Adding Event Blocks (Yellow) to Sprite1  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=897s)
+        *  Click on the Sprite - (the cat)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=874s)
+        *  Add the Event Block - "when ___ key pressed" 
         *  Change the key so each Event responds to a different key
         *    <img src="/SpriteEventBlocksPickkey.png" width="300">
         *  One event for each arrow key up, right, left and down
         *    <img src="/Sprite1_eventblocks.png" width="300">
-   2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=540s)
+   2. Adding Motion Blocks (Blue)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=960s)
     
-    
-       A.   Change the direction the sprite points by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=592s) 
+       A.   Change the direction the sprite points by adding the Motion Block "point in direction __ "  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1033s) 
        *   Add the movement block to each event - 4 total, 
-       *   Adjust the direction to face direction of movement [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=615s)
+       *   Adjust the direction to face direction of movement
      
-       B.    Take Steps by adding "Move __ Steps" block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=636s)
+       B.    Take Steps by adding "Move __ Steps" block  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1043s)
        *   Check that the 4 events (yellow blocks) have 2 motion blocks (blue) under each them 
        *   <img src="/Sprite1_steps%20and%20direction.png" width="400">
-       *   That the arrow key matches the direction of the steps [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=660s)
+       *   That the arrow key matches the direction of the steps  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1145s)
 </details>  
 <details><summary>4. Test your code </summary>   
 
    ### Test your code       
    * Do you noticing that Sprite1 moves off the end of the screen [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=827s)
-       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
+       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce"  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1400s)
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
    * Do you want Sprite1 to look like it's walking or running? [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
        * Add the Looks Block "next costume". [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1040s)
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to move faster or slower? 
        * Change the number in the "Move __ Steps" block.  [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1100s)
-       * Increase to move faster, recommend changing to 20.
+       * Increase to move faster?, recommend changing to 20.
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to be larger or smaller, to be smaller or larger?
-       * Change the size in the setup area. [Video Sprite](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1135s) [Video Crystal](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1180s)
-	
+       * Change the size in the setup area.  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1490s)
 </details>  
 	
-<details><summary>5. Reset the Game when the flag is pressed </summary> 
+<details><summary>5. Start the Game when the flag is pressed </summary> 
    
-   ### Sprite1 starts on the green circle at the right size
-1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2260s)
+   ### Sprite1 starts at the Start (green circle)
+1. Add an Events Block (yellow)  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1450s)
    * Add the Events Block "when green flag clicked" to the design space. 
-2. Reset the Sprite's size to fit into your maze.   
+2. Set the Sprite's size to fit into your maze.   
     * Use a Looks Block (purple)
-    * Add "set size to ___ %" under ther yellow Control block "when green flag clicked" (example is 25%)
-3. Set the Sprite's location to the green circle
+    * Add "set size to ___ %" under the yellow Control block "when green flag clicked" (example is 25%) [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1490s)
+3. Set the Sprite's location to the green circle  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1560s)
     * Move the Sprite using your mouse to the starting location - this should change the x and y position numbers. 
     * Use a Motion Block (blue)
-    * Add the "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)
+    * Add the "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)  [Video]((https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1640s)
 4. Reset the background
     * Use a Looks Block (purple)  
     * Add the "switch backdrop to ____" block under the yellow Control block "when green flag clicked"  
@@ -329,14 +328,13 @@ Following the Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM f
    <img src="/MazeSetup.png" width="400">
 </details>
 	
-<details><summary>6. Bounce off the Maze too! </summary>   
-
+<details><summary>6. Bounce off the Maze! </summary>   
 
 2. Add a Controls Block (orange)
    * Add an "If <> Then" Block
 3. Add a Sensing Block (Teal)
    * Add "touching color ____ " Block into the "If Then" Block.
-   * Use the selector button and pick the maze color (purple)
+   * Use the selector button and pick the maze color (purple)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1725s)
 4. Add a Motion Block (blue)
    * Add a "move __ steps" block
    * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key
