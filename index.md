@@ -56,7 +56,7 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 </details>
 <details><summary>2. Draw your Maze</summary> 
    
-	1. Draw out a simple maze on paper with a circle for start and a different circle for end point [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
+   1. Draw out a simple maze on paper with a circle for start and a different circle for end point [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
    
    2. Click on "Stage"  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=442s)
    
