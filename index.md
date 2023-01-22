@@ -120,7 +120,7 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
     * Use a Looks Block (purple)
     * Add "set size to ___ %" under the yellow Control block "when green flag clicked" (example is 25%) [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1490s)
 3. Set the Sprite's location to the green circle  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1560s)
-    * Move the Sprite using your mouse to the starting location - this should change the x and y position numbers. 
+    * Move the Sprite using your mouse to the starting location - this should change the x and y position numbers. DO THIS BEFORE ADDING THE MOTION BLOCK or you will need to change the numbers manually!
     * Use a Motion Block (blue)
     * Add the "go to x:__ y:__" under the yellow Control block "when green flag clicked" (example coordinates are (x: 196, y: -122)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1640s)
 4. Reset the background
