@@ -6,14 +6,14 @@
 
 <details><summary>Badge 2</summary>
 	
-# Digital Game Design
+# Badge 2 - Digital Game Design
 <details><summary>Planning and Design</summary>
    
    Program a maze game. 
 
    The player will try to navigate the maze using the Sprite (Cat) to the end point. [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=122s)
 	
-   Steps to create this game:
+   Summary of Steps to create this game:
    1. Open Scratch
 	
    2. Develop a maze background
@@ -48,8 +48,9 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 
    5.  Pick a Sprite 
      * Sprite1 (the cat is already picked for you - but you can pick a different one)
+     <img src="/sprite_pick.png" width="400">
 	
-   6.  Draw your Backdrop [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=318s) or  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
+   6.  Draw your Backdrop  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=420s)
 	This will be your maze. You can start simple then make it more complex after you get the rest of your program working.
 
 </details>
