@@ -128,30 +128,31 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 4. Reset the background
     * Use a Looks Block (purple)  
     * Add the "switch backdrop to ____" block under the yellow Control block "when green flag clicked"  
-    * Set block to "backdrop1"	
+    * Set block to "backdrop1"	[Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2332s)
    <img src="/MazeSetup.png" width="400">
 </details>
 	
 <details><summary>6. Bounce off the Maze! </summary>   
 
 2. Add a Controls Block (orange)
-   * Add an "If <> Then" Block
+   * Add an "If <> Then" Block [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1860s)
 3. Add a Sensing Block (Teal)
    * Add "touching color ____ " Block into the "If Then" Block.
-   * Use the selector button and pick the maze color (purple)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1725s)
+   * Use the selector button and pick the maze color (purple)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1805s)
+   <img src="/dropper_tool.png" width="200">
 4. Add a Motion Block (blue)
    * Add a "move __ steps" block
-   * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key
+   * Add a - sign infront of the number of steps your Sprite moves in response to an arrow key [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2110s)
 5. Add a Loop using a Control Block
    * We want the Sprite to bounce off the maze again and again while the game is going, so we are adding a forever loop.
-   * Add a "forever" block (orange) under the Event Block (yellow) then put the if statement in the grove
+   * Add a "forever" block (orange) under the Event Block (yellow) then put the if statement in the grove [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=2176s)
    <img src="/MazeStart.png" width="400">
 </details>
 
 <details><summary>7. Add a suprise background </summary>    
    
    ### Making the Sprite1 make a sound and enter a new background when gets to the end of the maze
-1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1998s)
+1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1805s)
    * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Controls Block (orange)
    * Add an "If <> Then" Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2029s)
