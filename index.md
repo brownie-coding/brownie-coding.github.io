@@ -74,7 +74,8 @@ Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM fo
 <details><summary>3. Code Sprite1</summary>   
    
    ##  Adding Code to Sprite1 [Video Help](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=874s)
-   
+   Click back to the Code Tab
+   <img src="/code_tab.png" width="400">
    1. Adding Event Blocks (Yellow) to Sprite1  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=897s)
         *  Click on the Sprite - (the cat)  [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=874s)
         *  Add the Event Block - "when ___ key pressed" 
