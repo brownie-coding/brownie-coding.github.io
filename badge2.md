@@ -1,7 +1,7 @@
 [Home](/)
 	
 # Badge 2 - Digital Game Design
-<details><summary>Planning and Design</summary>
+<details><summary>Planning Summary and Game Design</summary>
    
    Program a maze game. 
 
@@ -23,7 +23,7 @@
 Example from Brownies - Coding for Good Badge 2 [Grades: 2-3] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=JpbUGa6yE9U&t=1s)
 	
 </details>
-<details><summary>Game Design (Coding with Scratch)</summary>
+<details><summary>Game Coding Instructions (Coding with Scratch)</summary>
 
    ## Digital Game Design with Scratch    
  
