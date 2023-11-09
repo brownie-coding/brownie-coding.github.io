@@ -6,7 +6,7 @@
 Using Southeast Florida's Girl Scouts at Home Programs - Coding for Good Syllabus [pdf](https://www.gssef.org/content/dam/girlscouts-gssef/girl-experience/girl-scouts-at-home/flyers/Brownies%20-%20Coding%20Basics.pdf)
 1.  Badge Part 1 - Create algorithms for a computer that follow a sequence
     *   [Loops & Events](https://studio.code.org/s/pre-express-2022)
-    *   Complete Parts 1-3
+    *   Complete Parts 1-2
 2.  Badge Part 2 - Use Loops to improve your algorithm
     *   Complete Part 6 (same link as part 1)
 3.  Badge Part 3 - Use events to make things happen
