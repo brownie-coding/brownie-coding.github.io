@@ -1,11 +1,11 @@
 [Home](/)
 
 # Junior Badge 1 - Coding For Good
-<details><summary>Badge Part 1-4 </summary>
+<details><summary>Program Pong </summary>
      
-   For this badge you will create a Pong Game and learn about Women computer scientists
-
    Pong is a game where you use a paddle to hit a ball to defend a space or edge [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=117s)
+
+   For this part of the badge you will use Scratch to program your own Pong game.
 
 In this game you are going to program: 
    A ball to move around your space. 
@@ -208,27 +208,25 @@ Don't forget to save your game!
 Let others play your game!
 </details>
 </details>
-<details><summary>Badge Part 5 </summary>
-
-   ## Learn about women in computer science
+<details><summary>Learn about Women in Computer Science</summary>
 
 Pick two:
     
-    [Grace Hopper -- Queen of Code](https://www.youtube.com/watch?v=5sNuPYJpSCI)
+[Grace Hopper -- Queen of Code](https://www.youtube.com/watch?v=5sNuPYJpSCI)
+
+[Grace Hooper Written Bio](https://www.womenshistory.org/education-resources/biographies/grace-hopper)
+
+[Ada Lovelace -- First Computer Programer](https://www.youtube.com/watch?v=2vg-0mlSnSE)
+
+[Margaret Hamilton - Helped to ](https://www.google.com/search?q=margaret+hamilton&sca_esv=581256897&rlz=1C5CHFA_enUS720US720&biw=1499&bih=859&tbm=vid&sxsrf=AM9HkKkx-gshZyQxDm_RljDvNAOb6CksHQ%3A1699637937595&ei=sWpOZazyI6HF0PEPuL-ewAU&gs_ssp=eJzj4tLP1TdILjDMTTY0YPQSzE0sSk8sSi1RyEjMzcwpyc8DAJkRCnA&oq=margaret+&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgltYXJnYXJldCAqAggAMhEQLhiKBRixAxiDARjUAhiRAjIREC4YgwEY1AIYsQMYigUYkQIyCBAuGIAEGLEDMgsQLhiABBixAxiDATILEC4YgAQYsQMYgwEyCxAuGIAEGLEDGIMBMggQLhiABBixAzILEC4YgAQYsQMYgwEyCxAuGIoFGLEDGIMBMg4QLhiABBjHARivARiOBUiXHlAAWKkScAB4AJABAJgBjAGgAfgIqgEDMC45uAEByAEA-AEBwgIHECMYigUYJ8ICBBAjGCfCAggQLhiKBRiRAsICCBAAGIoFGJECwgIREC4YgAQYsQMYgwEYxwEY0QPCAgsQABiABBixAxiDAcICCxAAGIoFGLEDGIMBwgIHEAAYigUYQ8ICDhAAGIoFGLEDGIMBGJECwgIOEC4YgAQYsQMYxwEY0QPCAggQABiABBixA8ICChAuGIoFGLEDGEPCAg0QLhiKBRixAxiDARhDiAYB&sclient=gws-wiz-video#fpstate=ive&vld=cid:7673397b,vid:kTn56jJW4zY,st:0)
     
-    [Grace Hooper Written Bio](https://www.womenshistory.org/education-resources/biographies/grace-hopper)
+[Raye Montague - Interview Naval engineer, and ended up revolutionizing the way ships and submarines are designed](https://youtu.be/1ejoOFulfmQ?si=Ozfe-SOGPAmNoRsE)
     
-    *   [Ada Lovelace -- First Computer Programer](https://www.youtube.com/watch?v=2vg-0mlSnSE)
+[Raye Montague - Life story book](https://www.youtube.com/watch?v=maBiBjirKwk)
     
-    *   [Margaret Hamilton - Helped to ](https://www.google.com/search?q=margaret+hamilton&sca_esv=581256897&rlz=1C5CHFA_enUS720US720&biw=1499&bih=859&tbm=vid&sxsrf=AM9HkKkx-gshZyQxDm_RljDvNAOb6CksHQ%3A1699637937595&ei=sWpOZazyI6HF0PEPuL-ewAU&gs_ssp=eJzj4tLP1TdILjDMTTY0YPQSzE0sSk8sSi1RyEjMzcwpyc8DAJkRCnA&oq=margaret+&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgltYXJnYXJldCAqAggAMhEQLhiKBRixAxiDARjUAhiRAjIREC4YgwEY1AIYsQMYigUYkQIyCBAuGIAEGLEDMgsQLhiABBixAxiDATILEC4YgAQYsQMYgwEyCxAuGIAEGLEDGIMBMggQLhiABBixAzILEC4YgAQYsQMYgwEyCxAuGIoFGLEDGIMBMg4QLhiABBjHARivARiOBUiXHlAAWKkScAB4AJABAJgBjAGgAfgIqgEDMC45uAEByAEA-AEBwgIHECMYigUYJ8ICBBAjGCfCAggQLhiKBRiRAsICCBAAGIoFGJECwgIREC4YgAQYsQMYgwEYxwEY0QPCAgsQABiABBixAxiDAcICCxAAGIoFGLEDGIMBwgIHEAAYigUYQ8ICDhAAGIoFGLEDGIMBGJECwgIOEC4YgAQYsQMYxwEY0QPCAggQABiABBixA8ICChAuGIoFGLEDGEPCAg0QLhiKBRixAxiDARhDiAYB&sclient=gws-wiz-video#fpstate=ive&vld=cid:7673397b,vid:kTn56jJW4zY,st:0)
+[Fran Kalah - Interview, Pixar Graphic Designer](https://www.khanacademy.org/computing/pixar/crowds/crowds-1/v/meet-fran-kalal)
     
-    *   [Raye Montague - Interview Naval engineer, and ended up revolutionizing the way ships and submarines are designed](https://youtu.be/1ejoOFulfmQ?si=Ozfe-SOGPAmNoRsE)
-    
-    *   [Raye Montague - Life story book](https://www.youtube.com/watch?v=maBiBjirKwk)
-    
-    *   [Fran Kalah - Interview, Pixar Graphic Designer](https://www.khanacademy.org/computing/pixar/crowds/crowds-1/v/meet-fran-kalal)
-    
-    *   [Isis Anchalee - social media activist and computer engineer](https://vimeo.com/212810094)
+[Isis Anchalee - Computer Engineer and Social Media Activist](https://vimeo.com/212810094)
 </details>
 
 
