@@ -13,7 +13,7 @@
      An area to defend.
      Add different sounds when the paddle hits the ball and when the ball hits the area/item you are defending.
      [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
-   
+</details>   
 <details><summary>Pong Game Steps</summary>
  
    ## Creating a Pong Game
