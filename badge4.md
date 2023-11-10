@@ -2,16 +2,17 @@
 
 # Junior Badge 1 - Coding For Good
 <details><summary>Program Pong </summary>
-     
-   Pong is a game where you use a paddle to hit a ball to defend a space or edge [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
+<details><summary>What is Pong? </summary>     
+   Pong is a game where you use a paddle to hit a ball to defend a space or edge 
 
    For this part of the badge you will use Scratch to program your own Pong game.
 
-In this game you are going to program: 
-   A ball to move around your space. 
-   A paddle that you can control with arrow keys.
-   An area to defend.
-   Add sounds when the paddle hits the ball and when the ball hits the area/item you are defending.
+   In this game you are going to program: 
+     A ball to move around your space. 
+     A paddle that you can control with arrow keys.
+     An area to defend.
+     Add different sounds when the paddle hits the ball and when the ball hits the area/item you are defending.
+     [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
    
 <details><summary>Pong Game Steps</summary>
  
@@ -20,12 +21,12 @@ In this game you are going to program:
 
    1.  Open the scratch website in a new tab - <a href="http://scratch.mit.edu" target="_blank" rel="noopener">Scratch</a>
 
-   1.  If you would like to Login ask an adult to help you set up an account, or you can just use the browser version you can save it to the computer without creating an account. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=270s)
-
-   2.  Then click "Create" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=260s)
+   2.  If you would like to Login ask an adult to help you set up an account, or you can just use the browser version you can save it to the computer without creating an account.
+     
+   3.  Then click "Create" [Video]()
 ![Click Create](/CreateButton.png)
 
-   4.  Name your program if you signed in. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=265s)
+   4.  Name your program if you signed in. [Video]()
 
    5.  Pick a Backdrop [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=276s)
      * Any backdrop will work, pick your favorite - you can go back and change this later
@@ -39,7 +40,7 @@ In this game you are going to program:
      <p>After clicking on "Choose A Sprite" start typing in the search box to find either a Ball or your own shape.</p>
 
    7. Pick a Paddle Sprite
-     <p>After clicking on "Choose A Sprite" start typing in the search box to find either a Ball or your own shape.</p>
+     <p>After clicking on "Choose A Sprite" start typing in the search box to find either a Paddle or your own shape.</p>
    
 </details>
 
@@ -210,7 +211,7 @@ Let others play your game!
 </details>
 <details><summary>Learn about Women in Computer Science</summary>
 
-Pick two:
+Watch two videos:
     
 [Grace Hopper -- Queen of Code](https://www.youtube.com/watch?v=5sNuPYJpSCI)
 
