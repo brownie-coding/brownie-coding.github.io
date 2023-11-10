@@ -3,7 +3,7 @@
 # Junior Badge 1 - Coding For Good
 <details><summary>Program Pong </summary>
      
-   Pong is a game where you use a paddle to hit a ball to defend a space or edge [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=117s)
+   Pong is a game where you use a paddle to hit a ball to defend a space or edge [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=119s)
 
    For this part of the badge you will use Scratch to program your own Pong game.
 
