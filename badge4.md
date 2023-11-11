@@ -57,13 +57,13 @@
        * Then click on the Backdrops Tab
        *  <img src="/Backdrops.png" width="300">
        * Select Square paint tool
-       *  <img src="/SquarePaint.png" width="300">
+       *  <img src="/SquarePaint.png" width="100">
        * Select Fill and pick your color
        * Click and drag to create a shape
        * Make sure to remove the outline of the shape
            * Click the outline menu
            * Select the bottom left red diagonal line
-           *  <img src="/ZoneOutline.png" width="300"> 
+           *  <img src="/ZoneOutline.png" width="100"> 
 </details>
 
 <details><summary>2. Programming the Paddle</summary>
