@@ -18,7 +18,7 @@
  
    Watch the game in action: [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
 </details>
-<details><summary><h3>Creating a Pong Game</h3></summary>   
+<details><summary><h3>Coding your Pong Game</h3></summary>   
 <details><summary>1. Setup</summary>
 
    1.  Open the scratch website in a new tab - <a href="http://scratch.mit.edu" target="_blank" rel="noopener">Scratch</a>
