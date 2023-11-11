@@ -72,30 +72,32 @@
         *  Change the key so each Event responds to a different key
         *    <img src="/PaddleKey.png" width="200">
         *  One event for each arrow key right and left
-        *    <img src="/PaddleTwoEvents.png" width="400">
+              <img src="/PaddleTwoEvents.png" width="400">
    2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s)
     
     
        A.   Change the direction the Paddle points by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s) 
        *   Add the movement block to each event - 2 total,
-       *   <img src="/PaddleDirection.png" width="200">
+          <img src="/PaddleDirection.png" width="200">
        *   Adjust the direction to face direction of movement [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=545s)
      
        B.    Take Steps by adding "Move __ Steps" block [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=587s)
        *   Check that the 2 events (yellow blocks) have 2 motion blocks (blue) under each them 
-       *   <img src="/PaddleDirectionMove.png" width="300">
+          <img src="/PaddleDirectionMove.png" width="300">
        *   That the arrow key matches the direction of the steps [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=208s)
 
-   3.  Test the Paddle Movement! 
+   3.  Test the Paddle Movement!
+       *    Does the paddle go left when you hit the left arrow?
+       *    Does the paddle go right when you hit the right arrow?
 </details>  
 
 <details><summary>3. Code the Ball </summary>    
    
    ## Adding Code to Ball    
-Now that the Paddle can move around we'd like the ball to move around the board.
+Now that the Paddle can be controlled, we want the ball to move around the board.
 
-We would like this event to start as soon as we click the green flag. 
-1. Click on the Ball
+The Ball should move as soon as we click the green flag to start the game. 
+1. Click on the Ball Sprite
 2. Adjust the size of the Ball
 3. Add an Event Block (yellow)
   * Add the Events Block "when green flag clicked" to the design space. [Video]()
