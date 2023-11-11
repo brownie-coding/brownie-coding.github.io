@@ -84,7 +84,7 @@
        B.    Take Steps by adding "Move __ Steps" block [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=587s)
        *   Check that the 2 events (yellow blocks) have 2 motion blocks (blue) under each them 
           <img src="/PaddleDirectionMove.png" width="300">
-       *   That the arrow key matches the direction of the steps [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=208s)
+       *   That the arrow key matches the direction of the steps [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=644s)
 
    3.  Test the Paddle Movement!
        *    Does the paddle go left when you hit the left arrow?
