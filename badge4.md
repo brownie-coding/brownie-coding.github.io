@@ -8,7 +8,7 @@
    <details><summary>What is Pong?</summary>     
    Pong is a game where you use a paddle to hit a moving ball to defend a space or edge 
    
-   <img src="/Pong.png" width="300">
+      <img src="/Pong.png" width="300">
    
    For this part of the badge you will use Scratch to program your own Pong game.
 
@@ -55,12 +55,15 @@
    9. Create a zone to defend
        * Click on white rectangle in bottom righthand corner that says "Stage"
        * Then click on the Backdrops Tab
+       *  <img src="/Backdrops.png" width="300">
        * Select Square paint tool
+       *  <img src="/SquarePaint.png" width="300">
        * Select Fill and pick your color
        * Click and drag to create a shape
        * Make sure to remove the outline of the shape
            * Click the outline menu
-           * Select the bottom left red diagonal line   
+           * Select the bottom left red diagonal line
+           *  <img src="/ZoneOutline.png" width="300"> 
 </details>
 
 <details><summary>2. Programming the Paddle</summary>
