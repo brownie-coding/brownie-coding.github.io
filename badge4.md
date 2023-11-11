@@ -235,15 +235,25 @@ Watch two videos:
 </details>
 <details><summary>Vocabulary</summary>
 Algorithm - a set of step-by-step instructions for how to do something, like a recipe
+   
 Code - a special language created by people to tell a computer what to do
+
 Conditional - used by programmers to get computers to react to different situation, written with IF/ELSE statements
+
 Efficient programs - programs that respond quickly and take less memory and power
+
 ELSE statement - in a conditional when an IF condition is not met, the ELSE action will run
+
 Events - the action the computer is looking for to start a block of code
+
 IF statement - in a conditional when an IF condition is met, the IF action will run
+
 Loop - when a set of instuctions or an algorithm is repeated
+
 Nested Loop - a loop is within a loop
+
 Programming - writing a set of instructions in code
+
 Sequence - order in which things happen
 </details>
 <h2>Reference</h2>
