@@ -113,33 +113,33 @@ We would like this event to start as soon as we click the green flag.
 <details><summary>4. Test your code </summary>   
 
    ### Test your code       
-   * Do you noticing that Sprite1 moves off the end of the screen [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=827s)
-       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
+   * Do you noticing that Sprite1 moves off the end of the screen [Video]()
+       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video]()
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
-   * Do you want Sprite1 to look like it's walking or running? [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=848s)
-       * Add the Looks Block "next costume". [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1040s)
+   * Do you want Sprite1 to look like it's walking or running? [Video](=)
+       * Add the Looks Block "next costume". [Video]()
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to move faster or slower? 
-       * Change the number in the "Move __ Steps" block.  [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1100s)
+       * Change the number in the "Move __ Steps" block.  [Video]()
        * Increase to move faster, recommend changing to 20.
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to be larger or smaller, Crystal to be smaller of large?
-       * Change the size in the setup area. [Video Sprite](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1135s) [Video Crystal](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1180s)
+       * Change the size in the setup area. [Video Sprite]() 
 </details>
 <details><summary>5. Code the Parrot </summary>    
    
    ## Adding Code to Parrot
    Now the movement for the Sprite1 and Crystal are set, we'd like the bird to chase the Sprite1.
-1. Click on the Parrot Sprite [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1465s)
+1. Click on the Parrot Sprite [Video]()
 2. Adjust the size of the Parrot 
 3. Add an Event Block 
-   * Add the Events Block "when green flag clicked" to the design space. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1495s)
+   * Add the Events Block "when green flag clicked" to the design space. [Video]()
 4. Add a Movement Block to Change direction pointing
-   * Add the Movement Block "point towards _____" [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1500s)
+   * Add the Movement Block "point towards _____" [Video]()
    * Select Sprite1 from block menu
 5. Add a Movement Block to take steps  
    * Add the Movement Block "move __ steps"
-   * The number chosen should be smaller than the number of steps Sprite1 takes. This number can be adjusted to make the game easier or harder. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1625s)
+   * The number chosen should be smaller than the number of steps Sprite1 takes. This number can be adjusted to make the game easier or harder. [Video]()
 6. Add a Loop using a Control Block
    * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
    * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
@@ -148,7 +148,7 @@ We would like this event to start as soon as we click the green flag.
 <details><summary>6. Make the Parrot look like it's flying </summary>    
    
    ### Making the Parrot look like it's flying
-1. Add an Events Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1780s)
+1. Add an Events Block [Video]()
    * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Looks Block
    * Add a Looks Block "next costume"
@@ -164,24 +164,24 @@ We would like this event to start as soon as we click the green flag.
 <details><summary>7. Add a sound to Sprite1 </summary>    
    
    ### Making the Sprite1 make a sound when it catches Crystal
-1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=1998s)
+1. Add an Events Block (yellow) [Video]()
    * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Controls Block (orange)
-   * Add an "If <> Then" Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2029s)
+   * Add an "If <> Then" Block [Video]()
 3. Add a Sensing Block (Teal)
-   * Add "touching ____ " Block into the "If Then" Block. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2060s)
+   * Add "touching ____ " Block into the "If Then" Block. [Video]()
    * Select Crystal from the menu 
-4. Add a Sounds Block [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2118s)
+4. Add a Sounds Block [Video]()
    * Add a "play sound Meow until done"
 5. Add a Loop using a Control Block
-   * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2155s)
+   * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop. [Video]()
    * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove.
 <img src="/Noise_Sprite1_crystal.png" width="400">
 </details>
 <details><summary>8. Add sound to Parrot </summary> 
    
    ### Making the Parrot make a sound when it catches Sprite1
-1. Add an Events Block (yellow) [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2260s)
+1. Add an Events Block (yellow) [Video]()
      * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Controls Block (orange)
      * Add an "If <> Then" Block
@@ -189,7 +189,7 @@ We would like this event to start as soon as we click the green flag.
      * Add "touching ____ " Block into the "If Then" Block.
      * Select Sprite1 from the menu 
 4. Add a Sounds Block
-     * Use the sounds tab to add a new sound. [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=2117s) 
+     * Use the sounds tab to add a new sound. [Video]() 
      * Add a "play sound Meow until done"
      * Change "Meow" to the new sound.
 5. Add a Loop using a Control Block
