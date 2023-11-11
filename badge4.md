@@ -1,10 +1,7 @@
 [Home](/)
 
 # Junior Badge 1 - Coding For Good
-<details><summary>
-
-   ## Pong 
-</summary>
+<details><summary><h1>Pong</summary>h1></summary>
 <details><summary>
    
    ### What is Pong? 
@@ -230,7 +227,7 @@ Watch two videos:
 
 [Ada Lovelace -- First Computer Programer](https://www.youtube.com/watch?v=2vg-0mlSnSE)
 
-[Margaret Hamilton - Helped to ](https://www.google.com/search?q=margaret+hamilton&sca_esv=581256897&rlz=1C5CHFA_enUS720US720&biw=1499&bih=859&tbm=vid&sxsrf=AM9HkKkx-gshZyQxDm_RljDvNAOb6CksHQ%3A1699637937595&ei=sWpOZazyI6HF0PEPuL-ewAU&gs_ssp=eJzj4tLP1TdILjDMTTY0YPQSzE0sSk8sSi1RyEjMzcwpyc8DAJkRCnA&oq=margaret+&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgltYXJnYXJldCAqAggAMhEQLhiKBRixAxiDARjUAhiRAjIREC4YgwEY1AIYsQMYigUYkQIyCBAuGIAEGLEDMgsQLhiABBixAxiDATILEC4YgAQYsQMYgwEyCxAuGIAEGLEDGIMBMggQLhiABBixAzILEC4YgAQYsQMYgwEyCxAuGIoFGLEDGIMBMg4QLhiABBjHARivARiOBUiXHlAAWKkScAB4AJABAJgBjAGgAfgIqgEDMC45uAEByAEA-AEBwgIHECMYigUYJ8ICBBAjGCfCAggQLhiKBRiRAsICCBAAGIoFGJECwgIREC4YgAQYsQMYgwEYxwEY0QPCAgsQABiABBixAxiDAcICCxAAGIoFGLEDGIMBwgIHEAAYigUYQ8ICDhAAGIoFGLEDGIMBGJECwgIOEC4YgAQYsQMYxwEY0QPCAggQABiABBixA8ICChAuGIoFGLEDGEPCAg0QLhiKBRixAxiDARhDiAYB&sclient=gws-wiz-video#fpstate=ive&vld=cid:7673397b,vid:kTn56jJW4zY,st:0)
+[Margaret Hamilton - NASA's First Software Engineer](https://youtu.be/kTn56jJW4zY)
     
 [Raye Montague - Interview Naval engineer, and ended up revolutionizing the way ships and submarines are designed](https://youtu.be/1ejoOFulfmQ?si=Ozfe-SOGPAmNoRsE)
     
