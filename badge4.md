@@ -108,8 +108,11 @@ Now that the Paddle can move around we'd like the ball to move around the board.
 We would like this event to start as soon as we click the green flag. 
 1. Click on the Ball
 2. Adjust the size of the Ball
-3. Add an Event Block 
+3. Add an Event Block (yellow)
   * Add the Events Block "when green flag clicked" to the design space. [Video]()
+  *   <img src="/GreenFlag.png" width="400">
+4. Add Movement Block (blue)
+  * Add "point in direction" under the event block
 4. Add a Movement Block
   * Add the Movement Block "glide one secs to random position" [Video]()
 5. Add a Loop using a Control Block
@@ -118,7 +121,7 @@ We would like this event to start as soon as we click the green flag.
   * Add a "forever" block (orange) [Video]() under the Event Block (yellow) then put the Movement block (blue) in the grove [Video]()
 <img src="/Crystal_loop.png" width="400">
 </details>
-<details><summary>3. Test your code </summary>   
+<details><summary>4. Test your code </summary>   
 
    ### Test your code       
    * Do you noticing that Sprite1 moves off the end of the screen [Video](https://www.youtube.com/watch?v=v2zEevGKPWs&t=827s)
