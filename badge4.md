@@ -117,27 +117,21 @@ The Ball should move as soon as we click the green flag to start the game.
   * <img src="/Neg90.png" width="100"><img src="/Neg45.png" width="100"><img src="/Pos45.png" width="100"><img src="/Pos90.png" width="100">
 4. Add a Movement Block
   * Add the Movement Block "move __ steps" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=932s)
-5. Add a Loop using a Control Block
-  * We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
-  * A Loop is ideal for this. [Video]()
-  * Add a "forever" block (orange) [Video]() under the Event Block (yellow) then put the Movement block (blue) in the grove
-<img src="/BallSteps.png" width="400">
+     <img src="/BallSteps.png" width="400">
+
 </details>
 <details><summary>4. Test your code </summary>   
 
    ### Test your code       
-   * Do you noticing that Ball moves off the end of the screen [Video]()
-       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video]()
+   * Do you noticing that Ball moves off the end of the screen if you keep clicking the green flag [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=951s)
+       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=965s)
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
-   * Do you want Sprite1 to look like it's walking or running? [Video](=)
-       * Add the Looks Block "next costume". [Video]()
-       <img src="/Sprite1_nextcostume.png" width="400">
-   * Do you want Sprite1 to move faster or slower? 
-       * Change the number in the "Move __ Steps" block.  [Video]()
-       * Increase to move faster, recommend changing to 20.
-       <img src="/Sprite1_nextcostume.png" width="400">
-   * Do you want Sprite1 to be larger or smaller, Crystal to be smaller of large?
-       * Change the size in the setup area. [Video Sprite]() 
+       5. Add a Loop using a Control Block
+  * We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=951s)
+  * A Loop is ideal for this. [Video]()
+  * Add a "forever" block (orange) [Video]() under the Event Block (yellow) then put the Movement block (blue) in the grove
+  * 
+   
 </details>
 <details><summary>5. Code the Parrot </summary>    
    
@@ -213,7 +207,15 @@ The Ball should move as soon as we click the green flag to start the game.
    
 ### Trouble Shooting
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
-
+* Do you want Sprite1 to look like it's walking or running? [Video](=)
+       * Add the Looks Block "next costume". [Video]()
+       <img src="/Sprite1_nextcostume.png" width="400">
+   * Do you want Sprite1 to move faster or slower? 
+       * Change the number in the "Move __ Steps" block.  [Video]()
+       * Increase to move faster, recommend changing to 20.
+       <img src="/Sprite1_nextcostume.png" width="400">
+   * Do you want Sprite1 to be larger or smaller, Crystal to be smaller of large?
+       * Change the size in the setup area. [Video Sprite]() 
 Don't forget to save your game!
    
 Let others play your game!
