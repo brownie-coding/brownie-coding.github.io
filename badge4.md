@@ -40,18 +40,17 @@
    6.  Pick a Sprite for your Ball
 
        Clicking on "Choose A Sprite" start typing in the search box to find either a Ball or your own shape.</p> 
+        * Add Ball  (or your own choice)
         * Sprite1 (the cat is already picked for you)
         * You can delete this one unless you want to use the cat.
             * Delete it by clicking on the Sprite1, and then the blue trash can on the Sprite1 image.
-        * Add Ball (or your own choice)
 
         <img src="/ChooseASprite.png" width="300">
      
-
-   7. Pick a Paddle Sprite
+   8. Pick a Paddle Sprite
      <p>After clicking on "Choose A Sprite" start typing in the search box to find either a Paddle or your own shape.</p>
 
-   8. Create a zone to defend
+   9. Create a zone to defend
        * Click on white rectangle in bottom righthand corner that says "Stage"
        * Then click on the Backdrops Tab
        * Select Square paint tool
@@ -207,7 +206,7 @@ Don't forget to save your game!
 Let others play your game!
 </details>
 </details>
-<details><summary><h2>Learn about Women in Computer Science</h2></summary>
+<details><summary>Learn about Women in Computer Science</summary>
 
 Watch two videos:
     
@@ -227,7 +226,7 @@ Watch two videos:
     
 [Isis Anchalee - Computer Engineer and Social Media Activist](https://vimeo.com/212810094)
 </details>
-<details><summary><h2> Vocabulary</h2></summary>
+<details><summary>Vocabulary</summary>
 Events - the action the computer is looking for to start a block of code
 </details>
 <h2>Reference</h2>
