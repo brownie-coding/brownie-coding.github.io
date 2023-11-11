@@ -18,11 +18,7 @@
  
    Watch the game in action: [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
 </details>
-
-<details><summary>
-   
-   ### Creating a Pong Game
-</summary>   
+<details><summary><h3>Creating a Pong Game</h3></summary>   
 <details><summary>1. Setup</summary>
 
    1.  Open the scratch website in a new tab - <a href="http://scratch.mit.edu" target="_blank" rel="noopener">Scratch</a>
@@ -230,7 +226,7 @@ Watch two videos:
     
 [Isis Anchalee - Computer Engineer and Social Media Activist](https://vimeo.com/212810094)
 </details>
-<details><summary><h3> Vocabulary</h3></summary>
+<details><summary><h2> Vocabulary</h2></summary>
 Events - the action the computer is looking for to start a block of code
 </details>
 <h2>Reference</h2>
