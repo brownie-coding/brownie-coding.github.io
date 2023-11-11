@@ -80,7 +80,7 @@
               <img src="/PaddleTwoEvents.png" width="400">
    2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s)
     
-    
+
        A.   Change the direction the Paddle points by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s) 
        *   Add the movement block to each event - 2 total,
           <img src="/PaddleDirection.png" width="200">
@@ -98,7 +98,7 @@
 
 <details><summary>3. Code the Ball </summary>    
    
-   ## Adding Code to Ball    
+   ### Adding Code to Ball    
 Now that the Paddle can be controlled, we want the ball to move around the board.
 
 The Ball should move as soon as we click the green flag to start the game. 
@@ -126,7 +126,7 @@ The Ball should move as soon as we click the green flag to start the game.
    ### Test your code       
    1. Do you noticing that Ball moves off the end of the screen if you keep clicking the green flag [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=951s)
        * Keep Ball in the frame by adding the Motion Block "if on edge, bounce" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=965s)
-       <img src="/Sprite1_bounce%20on%20edge.png" width="400">
+       <img src="/EdgeBounce.png" width="400">
     2. Would it be nice to not have to hit the green flag all of the time?
 </details>
 <details><summary>5. Add a Loop </summary>
@@ -134,27 +134,32 @@ The Ball should move as soon as we click the green flag to start the game.
    ### Add a Loop using a Control Block
   
   We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
-  * A Loop is ideal for this.
-  1. Add a 
-  * Add a "forever" block (orange) [Video]() under the Event Block (yellow) then put the Movement block (blue) in the grove
-  * 
-   
+  * A Loop is ideal for this, and we want it to repeat forever while the game is going.
+  1. Add a "forever" block (orange) to the workspace [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
+      *<img src="/ForeverDesign.png" width="300">
+      * We want this to repeat the movements, but not changing direction
+      * Then put the two Movement blocks (blue) "move __ steps"  and "if on edge, bounce" in the grove of the forever loop
+      * Then move the whole loop block the under the Event Block (yellow) and the point in Direction Block.
+       <img src="/BallMovement.png" width="300">
 </details>
-<details><summary>5. Code the Parrot </summary>    
+<details><summary>5. Ball Bouncing Off Paddle </summary>    
    
-   ## Adding Code to Parrot
-   Now the movement for the Sprite1 and Crystal are set, we'd like the bird to chase the Sprite1.
-1. Click on the Parrot Sprite [Video]()
-2. Adjust the size of the Parrot 
-3. Add an Event Block 
-   * Add the Events Block "when green flag clicked" to the design space. [Video]()
-4. Add a Movement Block to Change direction pointing
+   ## Sensing the Paddle
+   Now the control for the Paddle and movement for the Ball are set, we'd like to be able to hit the Ball with the Paddle. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1103s)
+1. Make sure to still be in the Ball Sprite Work space
+2. Add a Sensing Block (turquoise)
+   * select the "touching ___" (Sprites)
+   * select the Paddle if not selected
+4. Add a Control Block (orange)
+   * Add the Conditional Block "if __ then"
+   * Add the Sensing Block "touching __" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1200s)
+5. Add a Movement Block to Change direction pointing
    * Add the Movement Block "point towards _____" [Video]()
    * Select Sprite1 from block menu
-5. Add a Movement Block to take steps  
+6. Add a Movement Block to take steps  
    * Add the Movement Block "move __ steps"
    * The number chosen should be smaller than the number of steps Sprite1 takes. This number can be adjusted to make the game easier or harder. [Video]()
-6. Add a Loop using a Control Block
+7. Add a Loop using a Control Block
    * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
    * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
 <img src="/Parrot_move.png" width="400">
