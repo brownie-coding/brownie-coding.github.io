@@ -71,7 +71,7 @@
    ##  Adding Code to Paddle [Video Help](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=423s)
 
    1. Make sure to click on the correct Sprite, "Paddle"
-   1. Adding Event Blocks (Yellow) to Ball [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=490s)
+   1. Adding Event Blocks (Yellow) to Paddle [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=490s)
         *  Click on the Correct Sprite - start with "Paddle" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=500s)
         *  Add the Event Block - "when ___ key pressed"
         *  Change the key so each Event responds to a different key
@@ -105,7 +105,7 @@ The Ball should move as soon as we click the green flag to start the game.
 1. Click on the Ball Sprite
 2. Adjust the size of the Ball
 3. Add an Event Block (yellow)
-  * Add the Events Block "when green flag clicked" to the design space. [Video]()
+  * Add the Events Block "when green flag clicked" to the design space. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=740s)
 
     <img src="/GreenFlag.png" width="150">
 4. Add Movement Block (blue)
@@ -116,17 +116,17 @@ The Ball should move as soon as we click the green flag to start the game.
   * To have the ball start upward use -90 to 90
   * <img src="/Neg90.png" width="100"><img src="/Neg45.png" width="100"><img src="/Pos45.png" width="100"><img src="/Pos90.png" width="100">
 4. Add a Movement Block
-  * Add the Movement Block "glide one secs to random position" [Video]()
+  * Add the Movement Block "move __ steps" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=932s)
 5. Add a Loop using a Control Block
-  * We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video]()
+  * We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
   * A Loop is ideal for this. [Video]()
-  * Add a "forever" block (orange) [Video]() under the Event Block (yellow) then put the Movement block (blue) in the grove [Video]()
-<img src="/Crystal_loop.png" width="400">
+  * Add a "forever" block (orange) [Video]() under the Event Block (yellow) then put the Movement block (blue) in the grove
+<img src="/BallSteps.png" width="400">
 </details>
 <details><summary>4. Test your code </summary>   
 
    ### Test your code       
-   * Do you noticing that Sprite1 moves off the end of the screen [Video]()
+   * Do you noticing that Ball moves off the end of the screen [Video]()
        * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video]()
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
    * Do you want Sprite1 to look like it's walking or running? [Video](=)
