@@ -101,9 +101,14 @@ The Ball should move as soon as we click the green flag to start the game.
 2. Adjust the size of the Ball
 3. Add an Event Block (yellow)
   * Add the Events Block "when green flag clicked" to the design space. [Video]()
-  *   <img src="/GreenFlag.png" width="300">
+     <img src="/GreenFlag.png" width="150">
 4. Add Movement Block (blue)
   * Add "point in direction" under the event block
+5. To make the game more fun we are going to add a random direction
+  * Add a Operators Block (green)
+  * Add "pick random __ to __" to your workspace
+  * To have the ball start upward use -90 to 90
+  * <img src="/Neg90.png" width="100"><img src="/Neg45.png" width="100"><img src="/Pos45.png" width="100"><img src="/Pos90.png" width="150">
 4. Add a Movement Block
   * Add the Movement Block "glide one secs to random position" [Video]()
 5. Add a Loop using a Control Block
