@@ -1,7 +1,8 @@
 [Home](/)
 
 # Junior Badge 1 - Coding For Good
-<details><summary><h2>Pong</summary></h2></summary>
+
+<details><h2><summary>Pong</summary></h2>
 <details><summary><h3>What is Pong?</h3></summary>     
    Pong is a game where you use a paddle to hit a moving ball to defend a space or edge 
    
