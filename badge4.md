@@ -1,12 +1,8 @@
 [Home](/)
 
 # Junior Badge 1 - Coding For Good
-<details><summary><h1>Pong</summary>h1></summary>
-<details><summary>
-   
-   ### What is Pong? 
-</summary>     
-   
+<details><summary><h2>Pong</summary></h2></summary>
+<details><summary><h3>What is Pong?</h3></summary>     
    Pong is a game where you use a paddle to hit a moving ball to defend a space or edge 
    
    <img src="/Pong.png" width="300">
@@ -214,10 +210,7 @@ Don't forget to save your game!
 Let others play your game!
 </details>
 </details>
-<details><summary>
-
-   ## Learn about Women in Computer Science
-   </summary>
+<details><summary><h2>Learn about Women in Computer Science</h2></summary>
 
 Watch two videos:
     
@@ -237,12 +230,8 @@ Watch two videos:
     
 [Isis Anchalee - Computer Engineer and Social Media Activist](https://vimeo.com/212810094)
 </details>
-<details><summary>
-
-   ## Vocabulary
-   </summary>
+<details><summary><h3> Vocabulary</h3></summary>
 Events - the action the computer is looking for to start a block of code
-
 </details>
-## Reference 
+<h2>Reference</h2>
 Using the Juniors - Coding for Good Badge 1 [Grades: 4-5] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=229s)
