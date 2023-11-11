@@ -117,18 +117,25 @@ The Ball should move as soon as we click the green flag to start the game.
   * <img src="/Neg90.png" width="100"><img src="/Neg45.png" width="100"><img src="/Pos45.png" width="100"><img src="/Pos90.png" width="100">
 4. Add a Movement Block
   * Add the Movement Block "move __ steps" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=932s)
+  * Recommend starting with 10 steps
      <img src="/BallSteps.png" width="400">
 
 </details>
 <details><summary>4. Test your code </summary>   
 
    ### Test your code       
-   * Do you noticing that Ball moves off the end of the screen if you keep clicking the green flag [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=951s)
-       * Keep Sprite1 in the frame by adding the Motion Block "If on edge, bounce" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=965s)
+   1. Do you noticing that Ball moves off the end of the screen if you keep clicking the green flag [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=951s)
+       * Keep Ball in the frame by adding the Motion Block "if on edge, bounce" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=965s)
        <img src="/Sprite1_bounce%20on%20edge.png" width="400">
-       5. Add a Loop using a Control Block
-  * We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=951s)
-  * A Loop is ideal for this. [Video]()
+    2. Would it be nice to not have to hit the green flag all of the time?
+</details>
+<details><summary>5. Add a Loop </summary>
+       
+   ### Add a Loop using a Control Block
+  
+  We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
+  * A Loop is ideal for this.
+  1. Add a 
   * Add a "forever" block (orange) [Video]() under the Event Block (yellow) then put the Movement block (blue) in the grove
   * 
    
