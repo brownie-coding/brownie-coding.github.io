@@ -68,7 +68,7 @@
 
 <details><summary>2. Programming the Paddle</summary>
    
-   ##  Adding Code to Paddle [Video Help](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=423s)
+   ###  Adding Code to Paddle [Video Help](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=423s)
 
    1. Make sure to click on the correct Sprite, "Paddle"
    1. Adding Event Blocks (Yellow) to Paddle [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=490s)
@@ -144,7 +144,7 @@ The Ball should move as soon as we click the green flag to start the game.
 </details>
 <details><summary>5. Ball Bouncing Off Paddle </summary>    
    
-   ## Sensing the Paddle
+   ### Sensing the Paddle
    Now the control for the Paddle and movement for the Ball are set, we'd like to be able to hit the Ball with the Paddle. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1103s)
 1. Make sure to still be in the Ball Sprite Work space
 2. Add a Sensing Block (turquoise)
@@ -153,20 +153,22 @@ The Ball should move as soon as we click the green flag to start the game.
 4. Add a Control Block (orange)
    * Add the Conditional Block "if __ then"
    * Add the Sensing Block "touching __" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1200s)
-5. Add a Movement Block to Change direction pointing
-   * Add the Movement Block "point towards _____" [Video]()
-   * Select Sprite1 from block menu
 6. Add a Movement Block to take steps  
-   * Add the Movement Block "move __ steps"
-   * The number chosen should be smaller than the number of steps Sprite1 takes. This number can be adjusted to make the game easier or harder. [Video]()
-7. Add a Loop using a Control Block
-   * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
-   * Add a "forever" block (orange) under the Event Block (yellow) then put the Movement blocks (blue) in the grove
-<img src="/Parrot_move.png" width="400">
+   * Add the Movement Block "point in direction ___"
+   * Add the Operator Block "pick random __ to __ "
+   * Use similar numbers as you did for the initial motion
+<img src="/PaddleDetect.png" width="400">
 </details>
-<details><summary>6. Make the Parrot look like it's flying </summary>    
+<details><summary>6. Add a Sound when hitting the edge you are trying to defend </summary>    
    
-   ### Making the Parrot look like it's flying
+   ### Create an effect to discourage hitting the colored edge
+1. Make sure to still be in the Ball Sprite workspace
+2. Add a Sensing Block (turquoise)
+   * select the "touching ___" (color this time)
+   * select the color, and pick the dropper
+4. Add a Control Block (orange)
+   * Add the Conditional Block "if __ then"
+   * Add the Sensing Block "touching __" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1200s) 
 1. Add an Events Block [Video]()
    * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Looks Block
