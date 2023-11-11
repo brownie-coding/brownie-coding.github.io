@@ -101,7 +101,8 @@ The Ball should move as soon as we click the green flag to start the game.
 2. Adjust the size of the Ball
 3. Add an Event Block (yellow)
   * Add the Events Block "when green flag clicked" to the design space. [Video]()
-     <img src="/GreenFlag.png" width="150">
+
+    <img src="/GreenFlag.png" width="150">
 4. Add Movement Block (blue)
   * Add "point in direction" under the event block
 5. To make the game more fun we are going to add a random direction
