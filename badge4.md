@@ -99,7 +99,7 @@ We would like this event to start as soon as we click the green flag.
 2. Adjust the size of the Ball
 3. Add an Event Block (yellow)
   * Add the Events Block "when green flag clicked" to the design space. [Video]()
-  *   <img src="/GreenFlag.png" width="400">
+  *   <img src="/GreenFlag.png" width="300">
 4. Add Movement Block (blue)
   * Add "point in direction" under the event block
 4. Add a Movement Block
@@ -227,7 +227,17 @@ Watch two videos:
 [Isis Anchalee - Computer Engineer and Social Media Activist](https://vimeo.com/212810094)
 </details>
 <details><summary>Vocabulary</summary>
+Algorithm - a set of step-by-step instructions for how to do something, like a recipe
+Code - a special language created by people to tell a computer what to do
+Conditional - used by programmers to get computers to react to different situation, written with IF/ELSE statements
+Efficient programs - programs that respond quickly and take less memory and power
+ELSE statement - in a conditional when an IF condition is not met, the ELSE action will run
 Events - the action the computer is looking for to start a block of code
+IF statement - in a conditional when an IF condition is met, the IF action will run
+Loop - when a set of instuctions or an algorithm is repeated
+Nested Loop - a loop is within a loop
+Programming - writing a set of instructions in code
+Sequence - order in which things happen
 </details>
 <h2>Reference</h2>
 Using the Juniors - Coding for Good Badge 1 [Grades: 4-5] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=229s)
