@@ -70,9 +70,9 @@
         *  Click on the Correct Sprite - start with "Paddle" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=500s)
         *  Add the Event Block - "when ___ key pressed"
         *  Change the key so each Event responds to a different key
-        *    <img src="/PaddleKey.png" width="300">
+        *    <img src="/PaddleKey.png" width="200">
         *  One event for each arrow key right and left
-        *    <img src="/PaddleTwoEvents.png" width="300">
+        *    <img src="/PaddleTwoEvents.png" width="400">
    2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s)
     
     
