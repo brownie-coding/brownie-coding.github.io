@@ -60,7 +60,7 @@
        *  <img src="/SquarePaint.png" width="100">
        * Select Fill and pick your color
        * Click and drag to create a shape
-       * Make sure to remove the outline of the shape
+       * Make sure to make the outline of the shape transparent (invisible)
            * Click the outline menu
            * Select the bottom left red diagonal line
            *  <img src="/ZoneOutline.png" width="100"> 
@@ -162,13 +162,20 @@ The Ball should move as soon as we click the green flag to start the game.
 <details><summary>6. Add a Sound when hitting the edge you are trying to defend </summary>    
    
    ### Create an effect to discourage hitting the colored edge
-1. Make sure to still be in the Ball Sprite workspace
+1. Make sure to still be in the Ball Sprite workspace [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1360s)
 2. Add a Sensing Block (turquoise)
    * select the "touching ___" (color this time)
-   * select the color, and pick the dropper
+   * <img src="/ColorSensing.png" width="400">
+   * Click on the color on the Sensing block and open the menu, and pick the dropper
+   * <img src="/ColorMenu.png" width="400">
+   * Use the cursor to select the color from your game are, make sure the outer edge of the cursor is the color of your edge
+   * <img src="/SelectionTool.png" width="400">
 4. Add a Control Block (orange)
-   * Add the Conditional Block "if __ then"
-   * Add the Sensing Block "touching __" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1200s) 
+   * Add a new Conditional Block "if __ then" to your workspace
+   * Add the Sensing Block "touching _(color)_" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1479s)
+   * Add the whole "if __ then" block under the first "if __ then" block in your "forever" loop
+   * <img src="/IfLoop.png" width="400">
+
 1. Add an Events Block [Video]()
    * Add the Events Block "when green flag clicked" to the design space.
 2. Add a Looks Block
