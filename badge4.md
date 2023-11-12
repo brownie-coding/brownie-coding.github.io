@@ -81,23 +81,23 @@ In this game you are going to program:
         *  Click on the Correct Sprite - start with "Paddle" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=500s)
         *  Add the Event Block (yellow) - "when ___ key pressed"
         *  Change the selected key so each Event responds to a different key
-        *    <img src="/PaddleKey.png" width="200">
+           <br><img src="/PaddleKey.png" width="200">
         *  One event for each arrow key right and left
-              <img src="/PaddleTwoEvents.png" width="400">
+            <br><img src="/PaddleTwoEvents.png" width="400">
    2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s)
     
 
        A.   Change the direction the Paddle points by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s) 
        *   Add the movement block to each event - 2 total,
-          <img src="/PaddleDirection.png" width="200">
+          <br><img src="/PaddleDirection.png" width="200">
        *   Adjust the direction to face direction of movement [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=545s)
        *   Negative 90 is left
        *   Positive 90 is right
-       *   <img src="/Neg90.png" width="100"><img src="/Pos90.png" width="100">
+         <br><img src="/Neg90.png" width="100"><img src="/Pos90.png" width="100">
      
        B.    Take Steps by adding "Move __ Steps" block [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=587s)
        *   Check that the 2 events (yellow blocks) have 2 motion blocks (blue) under each them 
-          <img src="/PaddleDirectionMove.png" width="300">
+          <br><img src="/PaddleDirectionMove.png" width="300">
        *   That the arrow key matches the direction of the steps you want to be taking [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=644s)
 
    3.  Test the Paddle Movement!
@@ -196,17 +196,15 @@ The Ball should move as soon as we click the green flag to start the game.
    * Add a new Conditional Block "if __ then" to your workspace
    * Add the Sensing Block "touching _(color)_" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1479s)
    * Add the whole "if __ then" block under the first "if __ then" block in your "forever" loop
-
-     <img src="/IfLoop.png" width="400">
+     <br><img src="/IfLoop.png" width="400">
 5. Add a Sound Block [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1560s)
    * Go to the sound tab
-
-      <img src="/SoundTab.png" width="200">
+      <br><img src="/SoundTab.png" width="200">
    * Go to Choose a sound at the bottom left corner
-       <img src="/ChooseSound.png" width="200">
+       <br><img src="/ChooseSound.png" width="200">
    * Example - clicked "Wacky" then "Toy Honk"
-   * then add the "start sound _____" block into the "if __ then" block
-       <img src="/ToySound.png" width="300">
+   * Then add the "start sound _____" block into the "if __ then" block
+       <br><img src="/ToySound.png" width="300">
 </details>
 <details><summary>8. Add a sound to Ball Bounce on the Paddle </summary>    
    
