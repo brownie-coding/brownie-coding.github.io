@@ -153,6 +153,7 @@ The Ball should move as soon as we click the green flag to start the game.
       * Then put the two Movement blocks (blue) "move __ steps"  and "if on edge, bounce" in the grove of the forever loop
       * Then move the whole loop block the under the Event Block (yellow) and the point in Direction Block.
        <img src="/BallMovement.png" width="300">
+   2. Test your code!
 </details>
 <details><summary>6. Ball Bouncing Off Paddle </summary>    
    
@@ -162,14 +163,17 @@ The Ball should move as soon as we click the green flag to start the game.
 2. Add a Sensing Block (turquoise)
    * select the "touching ___" (Sprites)
    * select the Paddle if not selected
-4. Add a Control Block (orange)
+3. Add a Control Block (orange)
    * Add the Conditional Block "if __ then"
    * Add the Sensing Block "touching __" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1200s)
-6. Add a Movement Block to take steps  
+4. Add a Movement Block to take steps  
    * Add the Movement Block "point in direction ___"
    * Add the Operator Block "pick random __ to __ "
    * Use similar numbers as you did for the initial motion
 <img src="/PaddleDetect.png" width="400">
+
+5. Test your code!
+
 </details>
 <details><summary>7. Add a Sound when hitting the edge you are trying to defend </summary>    
    
