@@ -49,10 +49,10 @@
 
         <img src="/ChooseASprite.png" width="300">
      
-   8. Pick a Paddle Sprite
+   8. Pick a Sprite for your Paddle
      <p>After clicking on "Choose A Sprite" start typing in the search box to find either a Paddle or your own shape.</p>
 
-   9. Create a zone to defend
+   9. Create a zone to defend by coloring a side of the game area
        * Click on white rectangle in bottom righthand corner that says "Stage"
        * Then click on the Backdrops Tab
        *  <img src="/Backdrops.png" width="300">
@@ -175,60 +175,32 @@ The Ball should move as soon as we click the green flag to start the game.
    * Add the Sensing Block "touching _(color)_" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1479s)
    * Add the whole "if __ then" block under the first "if __ then" block in your "forever" loop
    * <img src="/IfLoop.png" width="400">
-5. Add a Sound Block
+5. Add a Sound Block [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1560s)
    * Go to the sound tab
    * <img src="/SoundTab.png" width="400">
    * Go to Choose a sound at the bottom left corner
-   * <img src="/ChooseSound.png" width="400">
-
-1. Add an Events Block [Video]()
-   * Add the Events Block "when green flag clicked" to the design space.
-2. Add a Looks Block
-   * Add a Looks Block "next costume"
-3. Add a Loop using a Control Block
-   * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
-   * Add a "forever" block (orange) under the Event Block (yellow) then put the Looks Block (purple) in the grove
-   * If you try the code now, the costume will change too quickly
-4. Add a Contol Block
-   * Add Controls Block "wait 1 sec" into the loop
-   * Adjust the number to control the speed.
-<img src="/Parrot_loops.png" width="400">
+       <img src="/ChooseSound.png" width="400">
+   * Example - clicked "Wacky" then "Toy Honk"
+   * then add the "start sound _____" block into the "if __ then" block
+       <img src="/ToySound.png" width="300">
 </details>
-<details><summary>7. Add a sound to Sprite1 </summary>    
+<details><summary>7. Add a sound to Ball Bounce on the Paddle </summary>    
    
-   ### Making the Sprite1 make a sound when it catches Crystal
-1. Add an Events Block (yellow) [Video]()
-   * Add the Events Block "when green flag clicked" to the design space.
-2. Add a Controls Block (orange)
-   * Add an "If <> Then" Block [Video]()
-3. Add a Sensing Block (Teal)
-   * Add "touching ____ " Block into the "If Then" Block. [Video]()
-   * Select Crystal from the menu 
-4. Add a Sounds Block [Video]()
-   * Add a "play sound Meow until done"
-5. Add a Loop using a Control Block
-   * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop. [Video]()
-   * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove.
-<img src="/Noise_Sprite1_crystal.png" width="400">
+   ### Making a Sound when the Ball hits the Paddle
+1. We already have an "if ___ then" block for the Ball touching the paddle
+2. Take the Sound Block (pink) "start sound ___"
+      * Find a sound for the paddle, either use the "pop" sound already selected or use the Sound tab and pick one
+      * Add the pink "start sound ___" block to the "if ___ then" block for the condition when the Paddle and Ball are touching
+        <img src="/SoundTwo.png" width="400">   
+      
 </details>
 <details><summary>8. Add sound to Parrot </summary> 
    
-   ### Making the Parrot make a sound when it catches Sprite1
-1. Add an Events Block (yellow) [Video]()
-     * Add the Events Block "when green flag clicked" to the design space.
-2. Add a Controls Block (orange)
-     * Add an "If <> Then" Block
-3. Add a Sensing Block (Teal)
-     * Add "touching ____ " Block into the "If Then" Block.
-     * Select Sprite1 from the menu 
-4. Add a Sounds Block
-     * Use the sounds tab to add a new sound. [Video]() 
-     * Add a "play sound Meow until done"
-     * Change "Meow" to the new sound.
-5. Add a Loop using a Control Block
-     * We want the sound to happen again and again when the two Sprites touch while the game is going, so we are adding a forever loop again.
-     * Add a "forever" block (orange) under the Event Block (yellow) then put the sound blocks (purple) in the grove
-   <img src="/Noise_Parrot_Sprite1.png" width="400">
+   ### Making the Ball Change color
+1. Pick a Looks Block (purple)
+    *Take the "change __ effect by __"
+    *Defalt of "color" and "25" works
+    *Add to the 
 </details>
    
 ### Trouble Shooting
@@ -241,7 +213,18 @@ Try playing your game. Can you change parameters to make it easier or harder? Wh
        * Increase to move faster, recommend changing to 20.
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to be larger or smaller, Crystal to be smaller of large?
-       * Change the size in the setup area. [Video Sprite]() 
+       * Change the size in the setup area. [Video Sprite]()
+       * 1. Add an Events Block [Video]()
+   * Add the Events Block "when green flag clicked" to the design space.
+2. Add a Looks Block
+   * Add a Looks Block "next costume"
+3. Add a Loop using a Control Block
+   * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
+   * Add a "forever" block (orange) under the Event Block (yellow) then put the Looks Block (purple) in the grove
+   * If you try the code now, the costume will change too quickly
+4. Add a Contol Block
+   * Add Controls Block "wait 1 sec" into the loop
+   * Adjust the number to control the speed.
 Don't forget to save your game!
    
 Let others play your game!
