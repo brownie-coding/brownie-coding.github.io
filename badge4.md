@@ -211,20 +211,9 @@ Try playing your game. Can you change parameters to make it easier or harder? Wh
    * Do you want Ball or Paddle to move faster or slower? 
        * Change the number in the "Move __ Steps" block.
        * Increase to move faster, recommend changing to 20.
-       <img src="/Sprite1_nextcostume.png" width="400">
-   * Do you want Sprite1 to be larger or smaller, Crystal to be smaller of large?
-       * Change the size in the setup area. [Video Sprite]()
-       * 1. Add an Events Block [Video]()
-   * Add the Events Block "when green flag clicked" to the design space.
-2. Add a Looks Block
-   * Add a Looks Block "next costume"
-3. Add a Loop using a Control Block
-   * We want the Movement Block to happen again and again while the game is going, so we are adding a loop again.
-   * Add a "forever" block (orange) under the Event Block (yellow) then put the Looks Block (purple) in the grove
-   * If you try the code now, the costume will change too quickly
-4. Add a Contol Block
-   * Add Controls Block "wait 1 sec" into the loop
-   * Adjust the number to control the speed.
+   * Do you want Ball to be larger or smaller, Paddle to be smaller of large?
+    
+
 Don't forget to save your game!
    
 Let others play your game!
