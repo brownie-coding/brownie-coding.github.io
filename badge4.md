@@ -35,27 +35,29 @@
 
        <img src="/CreateButton.png" width=500>
 
-   4.  Name your program if you signed in. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
+   4.  Name your program if you signed in.
 
    5.  Pick a Backdrop from the bottom right corner [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=208s)
         * Any backdrop will work, pick your favorite - you can go back and change this later
+        * Program used the "Stripe" Backdrop 
         * Search tool will let you choose from the available backgrounds  
        <img src="/ChooseABackground.png" width="300">
 
-   6.  Pick a Sprite for your Ball
+   6.  Pick a Sprite for your Ball [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=250s)
 
-       Clicking on "Choose A Sprite" start typing in the search box to find either a Ball or your own shape.</p> 
-        * Add Ball  (or your own choice)
+       Clicking on "Choose A Sprite" in the bottom right corner
+        * Start typing in the search box to find either a Ball, or your own shape. 
+        * Add "Ball"  (or your own choice)
         * Sprite1 (the cat is already picked for you)
         * You can delete this one unless you want to use the cat.
             * Delete it by clicking on the Sprite1, and then the blue trash can on the Sprite1 image.
 
         <img src="/ChooseASprite.png" width="300">
      
-   8. Pick a Sprite for your Paddle
-     <p>After clicking on "Choose A Sprite" start typing in the search box to find either a Paddle or your own shape.</p>
+   8. Pick a Sprite for your Paddle [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=288s)
+     <p>After clicking on "Choose A Sprite" start typing in the search box to find either a Paddle or your own shape to use as a paddle.</p>
 
-   9. Create a zone to defend by coloring a side of the game area
+   9. Create a zone to defend by coloring a side of the game area [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=300s)
        * Click on white rectangle in bottom righthand corner that says "Stage"
        * Then click on the Backdrops Tab
        *  <img src="/Backdrops.png" width="300">
@@ -73,11 +75,10 @@
    
    ###  Adding Code to Paddle [Video Help](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=423s)
 
-   1. Make sure to click on the correct Sprite, "Paddle"
-   1. Adding Event Blocks (Yellow) to Paddle [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=490s)
+   1. Adding Event Blocks (yellow) to Paddle [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=490s)
         *  Click on the Correct Sprite - start with "Paddle" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=500s)
-        *  Add the Event Block - "when ___ key pressed"
-        *  Change the key so each Event responds to a different key
+        *  Add the Event Block (yellow) - "when ___ key pressed"
+        *  Change the selected key so each Event responds to a different key
         *    <img src="/PaddleKey.png" width="200">
         *  One event for each arrow key right and left
               <img src="/PaddleTwoEvents.png" width="400">
@@ -88,14 +89,17 @@
        *   Add the movement block to each event - 2 total,
           <img src="/PaddleDirection.png" width="200">
        *   Adjust the direction to face direction of movement [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=545s)
+       *   Negative 90 is left
+       *   Positive 90 is right
+       *   <img src="/Neg90.png" width="100"><img src="/Pos90.png" width="100">
      
        B.    Take Steps by adding "Move __ Steps" block [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=587s)
        *   Check that the 2 events (yellow blocks) have 2 motion blocks (blue) under each them 
           <img src="/PaddleDirectionMove.png" width="300">
-       *   That the arrow key matches the direction of the steps [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=644s)
+       *   That the arrow key matches the direction of the steps you want to be taking [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=644s)
 
    3.  Test the Paddle Movement!
-       *    Does the paddle go left when you hit the left arrow?
+       *    Does the paddle go left when you hit the left arrow? (or how you wanted it to move?)
        *    Does the paddle go right when you hit the right arrow?
 </details>  
 
@@ -197,12 +201,12 @@ The Ball should move as soon as we click the green flag to start the game.
         <img src="/SoundTwo.png" width="400">   
       
 </details>
-<details><summary>8. Add sound to Parrot </summary> 
+<details><summary>8. Having the Ball change color </summary> 
    
    ### Making the Ball Change color
 1. Pick a Looks Block (purple)
     * Take the "change __ effect by __"
-    * Defalt of "color" and "25" works
+    * Defalt of "color" and "25" works, but feel free to play around
     * Add to the conditional that controls the ball touching the paddle
        <img src="/FinalPong.png" width="400">
 </details>
@@ -213,7 +217,7 @@ Try playing your game. Can you change parameters to make it easier or harder? Wh
       * Add the Looks Block "next costume" under the "move __ steps" block
    * Do you want Ball or Paddle to move faster or slower? 
        * Change the number in the "Move __ Steps" block.
-       * Increase to move faster, recommend changing to 20.
+       * Increase to move faster, decrease to move slower
    * Do you want Ball to be larger or smaller, Paddle to be smaller of large?
     
 
