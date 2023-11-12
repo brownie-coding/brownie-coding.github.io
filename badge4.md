@@ -4,11 +4,12 @@
 
 <details><summary>Pong</summary>
 
+
    
    <details><summary>What is Pong?</summary>     
    Pong is a game where you use a paddle to hit a moving ball to defend a space or edge 
    
-      <img src="/Pong.png" width="300">
+   <img src="/Pong.png" width="300">
    
    For this part of the badge you will use Scratch to program your own Pong game.
 
@@ -21,6 +22,8 @@
  
    Watch the game in action: [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
 </details>
+
+
 <details><summary>Coding your Pong Game</summary>   
 <details><summary>1. Setup</summary>
 
