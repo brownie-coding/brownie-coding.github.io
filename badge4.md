@@ -4,12 +4,9 @@
 
 ## Pong
 <details><summary>Pong</summary>
-
-
    
    <details><summary>What is Pong?</summary>     
 <p>Pong is a game where you use a paddle to hit a moving ball to defend a space or edge </p>
-      
       
    <img src="/Pong.png" width="300">
    
@@ -25,8 +22,8 @@ In this game you are going to program:
    Watch the game in action: [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
 </details>
 
-
-<details><summary>Coding your Pong Game</summary>   
+<details><summary>Coding your Pong Game</summary> 
+   
 <details><summary>1. Setup</summary>
 
    1.  Open the scratch website in a new tab - <a href="http://scratch.mit.edu" target="_blank" rel="noopener">Scratch</a>
@@ -86,7 +83,6 @@ In this game you are going to program:
             <br><img src="/PaddleTwoEvents.png" width="400">
    2. Adding Motion Blocks (Blue) [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s)
     
-
        A.   Change the direction the Paddle points by adding the Motion Block "point in direction __ " [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=524s) 
        *   Add the movement block to each event - 2 total,
           <br><img src="/PaddleDirection.png" width="200">
@@ -184,14 +180,11 @@ The Ball should move as soon as we click the green flag to start the game.
 1. Make sure to still be in the Ball's workspace [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1360s)
 2. Add a Sensing Block (turquoise)
    * select the "touching ___" (color this time)
-
-     <img src="/ColorSensing.png" width="100">
+     <br><img src="/ColorSensing.png" width="100">
    * Click on the color on the Sensing block and open the menu, and pick the dropper
-    
-     <img src="/ColorMenu.png" width="200">
+     <br><img src="/ColorMenu.png" width="200">
    * Use the cursor to select the color from your game are, make sure the outer edge of the cursor is the color of your edge
-
-     <img src="/SelectionTool.png" width="200">
+     <br><img src="/SelectionTool.png" width="200">
 4. Add a Control Block (orange)
    * Add a new Conditional Block "if __ then" to your workspace
    * Add the Sensing Block "touching _(color)_" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1479s)
@@ -225,8 +218,10 @@ The Ball should move as soon as we click the green flag to start the game.
     * Take the "change __ effect by __"
     * Defalt of "color" and "25" works, but feel free to play around
     * Add to the conditional that controls the ball touching the paddle
+
       <br><img src="/FinalPong.png" width="400">
 </details>
+
 <details><summary>10. Trouble Shooting </summary>   
 
    ### Trouble Shooting
