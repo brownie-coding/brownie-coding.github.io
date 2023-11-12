@@ -7,18 +7,19 @@
 
    
    <details><summary>What is Pong?</summary>     
-   Pong is a game where you use a paddle to hit a moving ball to defend a space or edge 
-   
+<p>Pong is a game where you use a paddle to hit a moving ball to defend a space or edge </p>
+      
+      
    <img src="/Pong.png" width="300">
    
-   For this part of the badge you will use Scratch to program your own Pong game.
+For this part of the badge you will use Scratch to program your own Pong game.
 
-   In this game you are going to program: 
+In this game you are going to program: 
    
-     * A ball to move around your space. 
-     * A paddle that you can control with arrow keys.
-     * An area to defend.
-     * Add different sounds when the paddle hits the ball and when the ball hits the area/item you are defending.
+  * A ball to move around your space.
+  * A paddle that you can control with arrow keys.
+  * An area to defend.
+  * Add different sounds when the paddle hits the ball and when the ball hits the area/item you are defending.
  
    Watch the game in action: [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=120s)
 </details>
@@ -134,14 +135,16 @@ The Ball should move as soon as we click the green flag to start the game.
    1. Do you noticing that Ball moves off the end of the screen if you keep clicking the green flag [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=951s)
        * Keep Ball in the frame by adding the Motion Block "if on edge, bounce" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=965s)
        <img src="/EdgeBounce.png" width="400">
-    2. Would it be nice to not have to hit the green flag all of the time?
+       
+   2. Would it be nice to not have to hit the green flag all of the time?
 </details>
 <details><summary>5. Add a Loop </summary>
        
    ### Add a Loop using a Control Block
   
   We want the Movement Block to happen again and again while the game is going, if you test it now it does not [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
-  * A Loop is ideal for this, and we want it to repeat forever while the game is going.
+  
+  A Loop is ideal for this, and we want it to repeat forever while the game is going.
   1. Add a "forever" block (orange) to the workspace [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
       *<img src="/ForeverDesign.png" width="300">
       * We want this to repeat the movements, but not changing direction
@@ -216,13 +219,16 @@ The Ball should move as soon as we click the green flag to start the game.
 
    ### Trouble Shooting
    
-Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
-      * Do you want Ball to look like it's walking or running? 
-      * Add the Looks Block "next costume" under the "move __ steps" block
-   * Do you want Ball or Paddle to move faster or slower? 
-       * Change the number in the "Move __ Steps" block.
-       * Increase to move faster, decrease to move slower
-   * Do you want Ball to be larger or smaller, Paddle to be smaller of large?
+Try playing your game. 
+    
+Can you change parameters to make it easier or harder? 
+What do you think needs to change? Can you change it?
+   * Do you want Ball to look like it's walking or running? 
+   * Add the Looks Block "next costume" under the "move __ steps" block
+Do you want Ball or Paddle to move faster or slower?
+   * Change the number in the "Move __ Steps" block.
+   * Increase to move faster, decrease to move slower
+Do you want Ball to be larger or smaller, Paddle to be smaller of large?
     
 
 Don't forget to save your game!
