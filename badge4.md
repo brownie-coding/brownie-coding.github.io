@@ -270,5 +270,8 @@ Programming - writing a set of instructions in code
 
 Sequence - order in which things happen
 </details>
-<h2>Reference</h2>
-Using the Juniors - Coding for Good Badge 1 [Grades: 4-5] video from STEM for Scouts YouTube Channel [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=229s)
+
+## Reference
+
+Using the Juniors - Coding for Good Badge 1 [Grades: 4-5] video from STEM for Scouts YouTube Channel 
+[Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=229s)
