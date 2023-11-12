@@ -210,7 +210,7 @@ The Ball should move as soon as we click the green flag to start the game.
     * Add to the conditional that controls the ball touching the paddle
        <img src="/FinalPong.png" width="400">
 </details>
-   
+<details><summary>9. Trouble Shooting </summary>   
 ### Trouble Shooting
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
       * Do you want Ball to look like it's walking or running? 
@@ -224,6 +224,7 @@ Try playing your game. Can you change parameters to make it easier or harder? Wh
 Don't forget to save your game!
    
 Let others play your game!
+</details>
 </details>
 </details>
 <details><summary>Learn about Women in Computer Science</summary>
