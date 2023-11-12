@@ -123,7 +123,7 @@ The Ball should move as soon as we click the green flag to start the game.
   * Add a Operators Block (green)
   * Add "pick random __ to __" to your workspace
   * To have the ball start upward use -90 to 90
-  * <img src="/Neg90.png" width="100"><img src="/Neg45.png" width="100"><img src="/Pos45.png" width="100"><img src="/Pos90.png" width="100">
+    <br><img src="/Neg90.png" width="100"><img src="/Neg45.png" width="100"><img src="/Pos45.png" width="100"><img src="/Pos90.png" width="100">
 4. Add a Movement Block
   * Add the Movement Block "move __ steps" [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=932s)
   * Recommend starting with 10 steps
