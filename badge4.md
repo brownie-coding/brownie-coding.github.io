@@ -2,6 +2,7 @@
 
 # Junior Badge 1 - Coding For Good
 
+## Pong
 <details><summary>Pong</summary>
 
 
@@ -243,6 +244,9 @@ Let others play your game!
 </details>
 </details>
 </details>
+
+## Woment in Computer Science
+
 <details><summary>Learn about Women in Computer Science</summary>
 
 Watch two videos:
@@ -263,6 +267,10 @@ Watch two videos:
     
 [Isis Anchalee - Computer Engineer and Social Media Activist](https://vimeo.com/212810094)
 </details>
+
+
+## Reference
+
 <details><summary>Vocabulary</summary>
 
 Algorithm - a set of step-by-step instructions for how to do something, like a recipe
@@ -287,8 +295,6 @@ Programming - writing a set of instructions in code
 
 Sequence - order in which things happen
 </details>
-
-## Reference
 
 Using the Juniors - Coding for Good Badge 1 [Grades: 4-5] video from STEM for Scouts YouTube Channel 
 [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=229s)
