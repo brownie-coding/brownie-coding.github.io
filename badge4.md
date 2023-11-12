@@ -155,6 +155,7 @@ The Ball should move as soon as we click the green flag to start the game.
       * Then move the whole loop block the under the Event Block (yellow) and the point in Direction Block.
        <img src="/BallMovement.png" width="300">
    2. Test your code!
+      * Does your Ball move until you hit the stop sign?
 </details>
 <details><summary>6. Ball Bouncing Off Paddle </summary>    
    
@@ -174,6 +175,7 @@ The Ball should move as soon as we click the green flag to start the game.
 <img src="/PaddleDetect.png" width="400">
 
 5. Test your code!
+   * Does your Ball bounce off your Paddle?
 
 </details>
 <details><summary>7. Add a Sound when hitting the edge you are trying to defend </summary>    
