@@ -198,18 +198,18 @@ The Ball should move as soon as we click the green flag to start the game.
    
    ### Making the Ball Change color
 1. Pick a Looks Block (purple)
-    *Take the "change __ effect by __"
-    *Defalt of "color" and "25" works
-    *Add to the 
+    * Take the "change __ effect by __"
+    * Defalt of "color" and "25" works
+    * Add to the conditional that controls the ball touching the paddle
+       <img src="/FinalPong.png" width="400">
 </details>
    
 ### Trouble Shooting
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
-* Do you want Sprite1 to look like it's walking or running? [Video](=)
-       * Add the Looks Block "next costume". [Video]()
-       <img src="/Sprite1_nextcostume.png" width="400">
-   * Do you want Sprite1 to move faster or slower? 
-       * Change the number in the "Move __ Steps" block.  [Video]()
+      * Do you want Ball to look like it's walking or running? 
+      * Add the Looks Block "next costume" under the "move __ steps" block
+   * Do you want Ball or Paddle to move faster or slower? 
+       * Change the number in the "Move __ Steps" block.
        * Increase to move faster, recommend changing to 20.
        <img src="/Sprite1_nextcostume.png" width="400">
    * Do you want Sprite1 to be larger or smaller, Crystal to be smaller of large?
