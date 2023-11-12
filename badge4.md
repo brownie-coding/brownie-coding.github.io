@@ -164,7 +164,7 @@ The Ball should move as soon as we click the green flag to start the game.
    * select the "touching ___" (Sprites)
    * select the Paddle if not selected
 3. Add a Control Block (orange)
-   * Add the Conditional Block "if __ then"
+   * Add a conditional using the Control Block "if __ then"
    * Add the Sensing Block "touching __" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1200s)
 4. Add a Movement Block to take steps  
    * Add the Movement Block "point in direction ___"
