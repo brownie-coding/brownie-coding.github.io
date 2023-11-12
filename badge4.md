@@ -184,19 +184,24 @@ The Ball should move as soon as we click the green flag to start the game.
 1. Make sure to still be in the Ball's workspace [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1360s)
 2. Add a Sensing Block (turquoise)
    * select the "touching ___" (color this time)
+
      <img src="/ColorSensing.png" width="100">
    * Click on the color on the Sensing block and open the menu, and pick the dropper
+    
      <img src="/ColorMenu.png" width="200">
    * Use the cursor to select the color from your game are, make sure the outer edge of the cursor is the color of your edge
+
      <img src="/SelectionTool.png" width="200">
 4. Add a Control Block (orange)
    * Add a new Conditional Block "if __ then" to your workspace
    * Add the Sensing Block "touching _(color)_" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1479s)
    * Add the whole "if __ then" block under the first "if __ then" block in your "forever" loop
+
      <img src="/IfLoop.png" width="400">
 5. Add a Sound Block [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1560s)
    * Go to the sound tab
-     <img src="/SoundTab.png" width="200">
+
+      <img src="/SoundTab.png" width="200">
    * Go to Choose a sound at the bottom left corner
        <img src="/ChooseSound.png" width="200">
    * Example - clicked "Wacky" then "Toy Honk"
