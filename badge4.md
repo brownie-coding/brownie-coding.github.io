@@ -175,6 +175,11 @@ The Ball should move as soon as we click the green flag to start the game.
    * Add the Sensing Block "touching _(color)_" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1479s)
    * Add the whole "if __ then" block under the first "if __ then" block in your "forever" loop
    * <img src="/IfLoop.png" width="400">
+5. Add a Sound Block
+   * Go to the sound tab
+   * <img src="/SoundTab.png" width="400">
+   * Go to Choose a sound at the bottom left corner
+   * <img src="/ChooseSound.png" width="400">
 
 1. Add an Events Block [Video]()
    * Add the Events Block "when green flag clicked" to the design space.
