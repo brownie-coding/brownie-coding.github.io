@@ -194,6 +194,7 @@ The Ball should move as soon as we click the green flag to start the game.
 <details><summary>7. Add a sound to Ball Bounce on the Paddle </summary>    
    
    ### Making a Sound when the Ball hits the Paddle
+   
 1. We already have an "if ___ then" block for the Ball touching the paddle
 2. Take the Sound Block (pink) "start sound ___"
       * Find a sound for the paddle, either use the "pop" sound already selected or use the Sound tab and pick one
@@ -204,6 +205,7 @@ The Ball should move as soon as we click the green flag to start the game.
 <details><summary>8. Having the Ball change color </summary> 
    
    ### Making the Ball Change color
+   
 1. Pick a Looks Block (purple)
     * Take the "change __ effect by __"
     * Defalt of "color" and "25" works, but feel free to play around
@@ -211,7 +213,9 @@ The Ball should move as soon as we click the green flag to start the game.
        <img src="/FinalPong.png" width="400">
 </details>
 <details><summary>9. Trouble Shooting </summary>   
-### Trouble Shooting
+
+   ### Trouble Shooting
+   
 Try playing your game. Can you change parameters to make it easier or harder? What do you think needs to change? Can you change it?
       * Do you want Ball to look like it's walking or running? 
       * Add the Looks Block "next costume" under the "move __ steps" block
