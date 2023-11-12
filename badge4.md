@@ -146,13 +146,15 @@ The Ball should move as soon as we click the green flag to start the game.
   
   A Loop is ideal for this, and we want it to repeat forever while the game is going.
   1. Add a "forever" block (orange) to the workspace [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1009s)
-      *<img src="/ForeverDesign.png" width="300">
+
+     <img src="/ForeverDesign.png" width="300">
+     
       * We want this to repeat the movements, but not changing direction
       * Then put the two Movement blocks (blue) "move __ steps"  and "if on edge, bounce" in the grove of the forever loop
       * Then move the whole loop block the under the Event Block (yellow) and the point in Direction Block.
        <img src="/BallMovement.png" width="300">
 </details>
-<details><summary>5. Ball Bouncing Off Paddle </summary>    
+<details><summary>6. Ball Bouncing Off Paddle </summary>    
    
    ### Sensing the Paddle
    Now the control for the Paddle and movement for the Ball are set, we'd like to be able to hit the Ball with the Paddle. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1103s)
@@ -169,7 +171,7 @@ The Ball should move as soon as we click the green flag to start the game.
    * Use similar numbers as you did for the initial motion
 <img src="/PaddleDetect.png" width="400">
 </details>
-<details><summary>6. Add a Sound when hitting the edge you are trying to defend </summary>    
+<details><summary>7. Add a Sound when hitting the edge you are trying to defend </summary>    
    
    ### Add a sound when you hit the colored zone
 1. Make sure to still be in the Ball's workspace [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1360s)
@@ -194,7 +196,7 @@ The Ball should move as soon as we click the green flag to start the game.
    * then add the "start sound _____" block into the "if __ then" block
        <img src="/ToySound.png" width="300">
 </details>
-<details><summary>7. Add a sound to Ball Bounce on the Paddle </summary>    
+<details><summary>8. Add a sound to Ball Bounce on the Paddle </summary>    
    
    ### Making a Sound when the Ball hits the Paddle
    
@@ -205,7 +207,7 @@ The Ball should move as soon as we click the green flag to start the game.
         <img src="/SoundTwo.png" width="400">   
       
 </details>
-<details><summary>8. Having the Ball change color </summary> 
+<details><summary>9. Having the Ball change color </summary> 
    
    ### Making the Ball Change color
    
@@ -215,7 +217,7 @@ The Ball should move as soon as we click the green flag to start the game.
     * Add to the conditional that controls the ball touching the paddle
        <img src="/FinalPong.png" width="400">
 </details>
-<details><summary>9. Trouble Shooting </summary>   
+<details><summary>10. Trouble Shooting </summary>   
 
    ### Trouble Shooting
    
