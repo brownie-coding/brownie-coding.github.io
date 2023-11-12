@@ -225,7 +225,7 @@ The Ball should move as soon as we click the green flag to start the game.
     * Take the "change __ effect by __"
     * Defalt of "color" and "25" works, but feel free to play around
     * Add to the conditional that controls the ball touching the paddle
-       <img src="/FinalPong.png" width="400">
+      <br><img src="/FinalPong.png" width="400">
 </details>
 <details><summary>10. Trouble Shooting </summary>   
 
