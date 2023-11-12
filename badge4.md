@@ -117,7 +117,7 @@ The Ball should move as soon as we click the green flag to start the game.
 
     <img src="/GreenFlag.png" width="150">
 4. Add Movement Block (blue)
-  * Add "point in direction" under the event block
+  * Add "point in direction" to your workspace under the event block
 5. To make the game more fun we are going to add a random direction
   * Add a Operators Block (green)
   * Add "pick random __ to __" to your workspace
@@ -150,7 +150,7 @@ The Ball should move as soon as we click the green flag to start the game.
      <img src="/ForeverDesign.png" width="300">
      
       * We want this to repeat the movements, but not changing direction
-      * Then put the two Movement blocks (blue) "move __ steps"  and "if on edge, bounce" in the grove of the forever loop
+      * Put the two Movement blocks (blue) "move __ steps"  and "if on edge, bounce" in the grove of the forever loop
       * Then move the whole loop block the under the Event Block (yellow) and the point in Direction Block.
        <img src="/BallMovement.png" width="300">
    2. Test your code!
@@ -159,14 +159,14 @@ The Ball should move as soon as we click the green flag to start the game.
    
    ### Sensing the Paddle
    Now the control for the Paddle and movement for the Ball are set, we'd like to be able to hit the Ball with the Paddle. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1103s)
-1. Make sure to still be in the Ball Sprite Work space
+1. Make sure to still be in the Ball Sprite work space
 2. Add a Sensing Block (turquoise)
    * select the "touching ___" (Sprites)
    * select the Paddle if not selected
 3. Add a Control Block (orange)
    * Add a conditional using the Control Block "if __ then"
    * Add the Sensing Block "touching __" into the "if __ then" block. [Video](https://www.youtube.com/watch?v=GeyjtKVWkx4&t=1200s)
-4. Add a Movement Block to take steps  
+4. Add a new Movement Block to take steps  
    * Add the Movement Block "point in direction ___"
    * Add the Operator Block "pick random __ to __ "
    * Use similar numbers as you did for the initial motion
